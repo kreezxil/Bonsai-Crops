@@ -1,0 +1,61 @@
+{
+  "type": "extratrees:redmaple",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:leaves.decorative.3",
+      "meta": 5
+    },
+    "b": {
+      "name": "forestry:logs.5",
+      "meta": 2
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "  a  ",
+      "     ",
+      "  a  ",
+      "     ",
+      "  a  ",
+      "     "
+    ],
+    [
+      "     ",
+      " aaa ",
+      " aaa ",
+      " aaa ",
+      " aaa ",
+      " aaa ",
+      "     "
+    ],
+    [
+      "  a  ",
+      "aaaaa",
+      " aaa ",
+      "aabaa",
+      " aba ",
+      " abaa",
+      "  b  "
+    ],
+    [
+      "     ",
+      " aaa ",
+      " aaa ",
+      " aaa ",
+      " aaa ",
+      " aaa ",
+      "     "
+    ],
+    [
+      "     ",
+      "  a  ",
+      "     ",
+      "  a  ",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ]
+}

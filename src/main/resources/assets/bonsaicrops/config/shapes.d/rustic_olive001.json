@@ -1,0 +1,55 @@
+{
+  "type": "rustic:olive",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "rustic:leaves",
+      "meta": 8
+    },
+    "b": {
+      "name": "rustic:leaves",
+      "meta": 0
+    },
+    "c": {
+      "name": "rustic:log",
+      "meta": 0
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "bbbbb",
+      "bbbbb",
+      "     "
+    ],
+    [
+      "  a  ",
+      " aaa ",
+      "baaab",
+      "baaab",
+      "     "
+    ],
+    [
+      " baa ",
+      " aca ",
+      "bacbb",
+      "bacab",
+      "  c  "
+    ],
+    [
+      "  b  ",
+      " aa  ",
+      "bbaab",
+      "bbaab",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "bbbb ",
+      "bbbbb",
+      "     "
+    ]
+  ]
+}

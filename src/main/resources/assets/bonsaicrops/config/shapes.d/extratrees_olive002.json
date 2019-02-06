@@ -1,0 +1,34 @@
+{
+  "type": "extratrees:olive",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:logs.5",
+      "meta": 1
+    },
+    "b": {
+      "name": "extratrees:leaves.decorative.3",
+      "meta": 4
+    }
+  },
+  "shape": [
+    [
+      "   ",
+      "bbb",
+      " b ",
+      "   "
+    ],
+    [
+      " b ",
+      "bab",
+      "bab",
+      " a "
+    ],
+    [
+      "   ",
+      "bbb",
+      " b ",
+      "   "
+    ]
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "type": "extratrees:lime",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:leaves.decorative.1",
+      "meta": 1
+    },
+    "b": {
+      "name": "forestry:logs.5",
+      "meta": 3
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "  a  ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      " aaa ",
+      " aaa ",
+      " aaa ",
+      "     ",
+      "     "
+    ],
+    [
+      "  a  ",
+      " aaa ",
+      "aabaa",
+      " aba ",
+      "  b  ",
+      "  b  "
+    ],
+    [
+      "     ",
+      " aaa ",
+      " aaa ",
+      " aaa ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "  a  ",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ]
+}

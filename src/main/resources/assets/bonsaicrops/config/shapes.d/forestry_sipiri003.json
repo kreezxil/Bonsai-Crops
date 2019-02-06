@@ -1,0 +1,122 @@
+{
+  "type": "forestry:sipiri",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "forestry:logs.3",
+      "meta": 2
+    },
+    "b": {
+      "name": "minecraft:vine",
+      "meta": 1
+    },
+    "c": {
+      "name": "forestry:leaves.decorative.1",
+      "meta": 15
+    },
+    "d": {
+      "name": "minecraft:vine",
+      "meta": 4
+    },
+    "e": {
+      "name": "minecraft:vine",
+      "meta": 8
+    },
+    "f": {
+      "name": "minecraft:vine",
+      "meta": 2
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      " ccc ",
+      "ccccc",
+      "ccccc",
+      " ccc ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "  c  ",
+      " ccc ",
+      "ccccc",
+      "ccccc",
+      "ccccc",
+      "ccccc",
+      " ccc ",
+      "     ",
+      "  f  ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "  f  ",
+      "  a  "
+    ],
+    [
+      " ccc ",
+      " ccc ",
+      "ccacc",
+      "ccacc",
+      "ccacc",
+      "ccacc",
+      " cac ",
+      "  a  ",
+      "  ad ",
+      "  a  ",
+      " ba  ",
+      "  ad ",
+      " ba  ",
+      " ba  ",
+      "  a  ",
+      " bad "
+    ],
+    [
+      "  c  ",
+      " ccc ",
+      "ccccc",
+      "ccccc",
+      "ccccc",
+      "ccccc",
+      " ccc ",
+      "  e  ",
+      "     ",
+      "     ",
+      "  e  ",
+      "     ",
+      "     ",
+      "  e  ",
+      "  e  ",
+      "  a  "
+    ],
+    [
+      "     ",
+      "     ",
+      " ccc ",
+      "ccccc",
+      "ccccc",
+      " ccc ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "extratrees:banana",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:logs.2",
+      "meta": 2
+    },
+    "b": {
+      "name": "extratrees:leaves.decorative.1",
+      "meta": 9
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      " bbb ",
+      "  b  ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "  b  ",
+      "bbbbb",
+      " bbb ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      " bbb ",
+      "bbbbb",
+      "bbabb",
+      "  a  ",
+      "  a  ",
+      "  a  ",
+      "  a  "
+    ],
+    [
+      "  b  ",
+      "bbbbb",
+      " bbb ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      " bbb ",
+      "  b  ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ]
+}

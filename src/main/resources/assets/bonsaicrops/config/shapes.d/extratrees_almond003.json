@@ -1,0 +1,86 @@
+{
+  "type": "extratrees:almond",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:leaves.decorative.0",
+      "meta": 9
+    },
+    "b": {
+      "name": "forestry:logs.5",
+      "meta": 1
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      "       ",
+      "   a   ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "  aaa  ",
+      " aaaaa ",
+      " aaaaa ",
+      " aaaaa ",
+      "  aaa  ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      " aaaaa ",
+      " aaaaa ",
+      " aaaaa ",
+      " aaaaa ",
+      " aaaaa ",
+      "       ",
+      "       "
+    ],
+    [
+      "   a   ",
+      " aaaaa ",
+      " aaaaa ",
+      "aaabaaa",
+      " aabaa ",
+      " aabaa ",
+      "   b   ",
+      "   b   "
+    ],
+    [
+      "       ",
+      " aaaaa ",
+      " aaaaa ",
+      " aaaaa ",
+      " aaaaa ",
+      " aaaaa ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "  aaa  ",
+      " aaaaa ",
+      " aaaaa ",
+      " aaaaa ",
+      "  aaa  ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "       ",
+      "   a   ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ]
+  ]
+}

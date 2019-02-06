@@ -1,0 +1,36 @@
+{
+  "type": "extratrees:raspberry",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:leaves.decorative.4",
+      "meta": 15
+    },
+    "b": {
+      "name": "extratrees:shrub_log",
+      "meta": 0
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "  a  "
+    ],
+    [
+      "  a  ",
+      " aaa "
+    ],
+    [
+      " aaa ",
+      "aabaa"
+    ],
+    [
+      "  a  ",
+      " aaa "
+    ],
+    [
+      "     ",
+      "  a  "
+    ]
+  ]
+}

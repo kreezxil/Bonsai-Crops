@@ -1,0 +1,59 @@
+{
+  "type": "twilightforest:minerstree",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "twilightforest:magic_leaves",
+      "meta": 14
+    },
+    "b": {
+      "name": "twilightforest:magic_log",
+      "meta": 14
+    },
+    "c": {
+      "name": "twilightforest:magic_log_core",
+      "meta": 2
+    }
+  },
+  "shape": [
+    [
+      "    aaaaa    ",
+      "   aaaaaaa   ",
+      "  aaaaaaaaa  ",
+      " aaa     aaa ",
+      "aaa       aaa",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "   aaaaaaa   ",
+      "  aabbbbbaa  ",
+      " aabaabaabaa ",
+      "aabaa b aabaa",
+      "abaa  b  aaba",
+      "aaa   b   aaa",
+      "      b      ",
+      "      b      ",
+      "      b      ",
+      "      c      ",
+      "      b      "
+    ],
+    [
+      "    aaaaa    ",
+      "   aaaaaaa   ",
+      "  aaaaaaaaa  ",
+      " aaa     aaa ",
+      "aaa       aaa",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ]
+  ]
+}

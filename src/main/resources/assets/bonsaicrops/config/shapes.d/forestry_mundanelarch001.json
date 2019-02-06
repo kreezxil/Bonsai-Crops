@@ -1,0 +1,100 @@
+{
+  "type": "forestry:mundaneLarch",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "forestry:leaves.decorative.0",
+      "meta": 11
+    },
+    "b": {
+      "name": "forestry:logs.0",
+      "meta": 0
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      "   a   ",
+      "       ",
+      "   a   ",
+      "       ",
+      "   a   ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "   a   ",
+      " aaaaa ",
+      "   a   ",
+      " aaaaa ",
+      "   a   ",
+      " aaaaa ",
+      "   a   ",
+      "       ",
+      "       "
+    ],
+    [
+      "   a   ",
+      "  aaa  ",
+      " aaaaa ",
+      "  aaa  ",
+      " aaaaa ",
+      "  aaa  ",
+      " aaaaa ",
+      "  aaa  ",
+      "       ",
+      "       "
+    ],
+    [
+      "  aaa  ",
+      " aaaaa ",
+      "aaabaaa",
+      " aabaa ",
+      "aaabaaa",
+      " aabaa ",
+      "aaabaaa",
+      " aabaa ",
+      "   b   ",
+      "   b   "
+    ],
+    [
+      "   a   ",
+      "  aaa  ",
+      " aaaaa ",
+      "  aaa  ",
+      " aaaaa ",
+      "  aaa  ",
+      " aaaaa ",
+      "  aaa  ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "   a   ",
+      " aaaaa ",
+      "   a   ",
+      " aaaaa ",
+      "   a   ",
+      " aaaaa ",
+      "   a   ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "   a   ",
+      "       ",
+      "   a   ",
+      "       ",
+      "   a   ",
+      "       ",
+      "       ",
+      "       "
+    ]
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "type": "thaumcraft:silverwood",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "thaumcraft:leaves_silverwood",
+      "meta": 0
+    },
+    "b": {
+      "name": "thaumcraft:log_silverwood",
+      "meta": 1
+    },
+    "c": {
+      "name": "thaumcraft:leaves_silverwood",
+      "meta": 8
+    },
+    "d": {
+      "name": "thaumcraft:log_silverwood",
+      "meta": 2
+    },
+    "e": {
+      "name": "thaumcraft:log_silverwood",
+      "meta": 0
+    }
+  },
+  "shape": [
+    [
+      "         ",
+      "    a    ",
+      "   aaa   ",
+      "  aaaaa  ",
+      "  aaaaa  ",
+      "  aaaa   ",
+      "   aaa   ",
+      "   caca  ",
+      "    c    ",
+      "         ",
+      "         "
+    ],
+    [
+      "    a    ",
+      "  aaaa   ",
+      "  aaaaaa ",
+      " aaaaaa  ",
+      " aaaaaa  ",
+      " aaaaaaa ",
+      "  accac  ",
+      " ccceaca ",
+      "  cccc   ",
+      "         ",
+      "    e    "
+    ],
+    [
+      "   aaa   ",
+      " aaaaaaa ",
+      " aaaaaaa ",
+      " aaaaaaa ",
+      "  aabaaa ",
+      " aaabaaa ",
+      "  aabaaa ",
+      " acbbbcc ",
+      "  cabbc  ",
+      "    bb   ",
+      "   bbb   "
+    ],
+    [
+      "    aaa  ",
+      " aaaaaaa ",
+      " aaaaaaa ",
+      "aaaabaaaa",
+      " aabbbca ",
+      " aabbbaa ",
+      " aabbbac ",
+      " cdbbbd  ",
+      "  abbbcc ",
+      "   bbb   ",
+      "  dbbbd  "
+    ],
+    [
+      "  a a    ",
+      " aaaaaa  ",
+      " aaccaaa ",
+      "  aaaaaa ",
+      "  aabaaa ",
+      " aaabaa  ",
+      " aaabcaa ",
+      " ccbbbca ",
+      " cccbca  ",
+      "    bb   ",
+      "   bbb   "
+    ],
+    [
+      "    a    ",
+      "  aaaaa  ",
+      "  aaaaaa ",
+      "  acaaa  ",
+      "  accaa  ",
+      " aaaaaaa ",
+      " aaaaaaa ",
+      "  cceccc ",
+      "  cccac  ",
+      "         ",
+      "    e    "
+    ],
+    [
+      "         ",
+      "     a   ",
+      "  aaaa   ",
+      "  aaaaa  ",
+      "   aaa   ",
+      "  aaaa   ",
+      "  a aa   ",
+      "    ca   ",
+      "     c   ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "    a    ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ]
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "type": "extratrees:prairiecrabapple",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:leaves.decorative.0",
+      "meta": 3
+    },
+    "b": {
+      "name": "extratrees:logs.0",
+      "meta": 0
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      " aaa ",
+      "aaaaa",
+      " aaa ",
+      "     "
+    ],
+    [
+      " aaa ",
+      "aaaaa",
+      "aaaaa",
+      "aaaaa",
+      "     "
+    ],
+    [
+      " aaa ",
+      "aabaa",
+      "aabaa",
+      "aabaa",
+      "  b  "
+    ],
+    [
+      " aaa ",
+      "aaaaa",
+      "aaaaa",
+      "aaaaa",
+      "     "
+    ],
+    [
+      "     ",
+      " aaa ",
+      "aaaaa",
+      " aaa ",
+      "     "
+    ]
+  ]
+}

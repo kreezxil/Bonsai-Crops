@@ -1,0 +1,60 @@
+{
+  "type": "biomesoplenty:umbran",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "biomesoplenty:leaves_1",
+      "meta": 0
+    },
+    "b": {
+      "name": "biomesoplenty:log_0",
+      "meta": 6
+    },
+    "c": {
+      "name": "biomesoplenty:leaves_1",
+      "meta": 8
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      " aaa ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "  c  ",
+      "     ",
+      "accca",
+      "     "
+    ],
+    [
+      "  a  ",
+      "  a  ",
+      " cbc ",
+      "  b  ",
+      "acbca",
+      "  b  "
+    ],
+    [
+      "     ",
+      "     ",
+      "  a  ",
+      "     ",
+      "accca",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      " aaa ",
+      "     "
+    ]
+  ]
+}

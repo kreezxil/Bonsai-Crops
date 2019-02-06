@@ -1,0 +1,58 @@
+{
+  "type": "extratrees:cypress",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:logs.3",
+      "meta": 0
+    },
+    "b": {
+      "name": "extratrees:leaves.decorative.2",
+      "meta": 5
+    }
+  },
+  "shape": [
+    [
+      " b ",
+      " b ",
+      " b ",
+      " b ",
+      " b ",
+      " b ",
+      " b ",
+      " b ",
+      " b ",
+      "bbb",
+      " b ",
+      "   "
+    ],
+    [
+      "bbb",
+      "bbb",
+      "bbb",
+      "bab",
+      "bab",
+      "bab",
+      "bab",
+      "bab",
+      "bab",
+      "bab",
+      "bab",
+      " a "
+    ],
+    [
+      " b ",
+      " b ",
+      " b ",
+      " b ",
+      " b ",
+      " b ",
+      " b ",
+      " b ",
+      " b ",
+      "bbb",
+      " b ",
+      "   "
+    ]
+  ]
+}

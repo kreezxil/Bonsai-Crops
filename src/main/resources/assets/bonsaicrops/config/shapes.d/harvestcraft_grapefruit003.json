@@ -1,0 +1,69 @@
+{
+  "type": "harvestcraft:grapefruit",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "minecraft:log",
+      "meta": 3
+    },
+    "b": {
+      "name": "harvestcraft:pamgrapefruit",
+      "meta": 0
+    },
+    "c": {
+      "name": "minecraft:leaves",
+      "meta": 11
+    },
+    "d": {
+      "name": "minecraft:leaves",
+      "meta": 3
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      " dddd",
+      "dddd ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "  c  ",
+      " ccc ",
+      "dcccd",
+      "dcccd",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      " ccc ",
+      " cac ",
+      "dcacd",
+      "dcacd",
+      " ba b",
+      "  a  ",
+      "  a  "
+    ],
+    [
+      "  c  ",
+      "  c  ",
+      "dcccd",
+      "dcccd",
+      "   b ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "dddd ",
+      " dddd",
+      "  b  ",
+      "     ",
+      "     "
+    ]
+  ]
+}

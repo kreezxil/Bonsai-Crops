@@ -1,0 +1,51 @@
+{
+  "type": "traverse:red_autumnal_sapling",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "traverse:red_autumnal_leaves",
+      "meta": 2
+    },
+    "b": {
+      "name": "minecraft:log",
+      "meta": 0
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "aaaaa",
+      " aaaa",
+      "     "
+    ],
+    [
+      "  a  ",
+      "  a  ",
+      "aaaaa",
+      "aaaaa",
+      "     "
+    ],
+    [
+      " aaa ",
+      " aba ",
+      "aabaa",
+      "aabaa",
+      "  b  "
+    ],
+    [
+      "  a  ",
+      " aaa ",
+      "aaaaa",
+      "aaaaa",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "aaaa ",
+      "aaaa ",
+      "     "
+    ]
+  ]
+}

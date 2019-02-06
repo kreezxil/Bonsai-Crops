@@ -1,0 +1,61 @@
+{
+  "type": "extratrees:iroko",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:logs.7",
+      "meta": 2
+    },
+    "b": {
+      "name": "extratrees:leaves.decorative.4",
+      "meta": 1
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "  b  ",
+      "bbbbb",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      " bbb ",
+      " bbb ",
+      "bbbbb",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "  b  ",
+      " bab ",
+      "bbabb",
+      "bbabb",
+      "  a  ",
+      "  a  ",
+      "  a  "
+    ],
+    [
+      "     ",
+      " bbb ",
+      " bbb ",
+      "bbbbb",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "  b  ",
+      "bbbbb",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ]
+}

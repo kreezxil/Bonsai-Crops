@@ -1,0 +1,69 @@
+{
+  "type": "harvestcraft:plum",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "minecraft:log",
+      "meta": 0
+    },
+    "b": {
+      "name": "minecraft:leaves",
+      "meta": 0
+    },
+    "c": {
+      "name": "harvestcraft:pamplum",
+      "meta": 0
+    },
+    "d": {
+      "name": "minecraft:leaves",
+      "meta": 8
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "bbbbb",
+      " bbbb",
+      "   c ",
+      "     ",
+      "     "
+    ],
+    [
+      "  d  ",
+      "  dd ",
+      "bdddb",
+      "bdddb",
+      " c  c",
+      "     ",
+      "     "
+    ],
+    [
+      " ddd ",
+      " dad ",
+      "bdadb",
+      "bdadb",
+      " cac ",
+      "  a  ",
+      "  a  "
+    ],
+    [
+      "  d  ",
+      " dd  ",
+      "bdddb",
+      "bdddb",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "bbbb ",
+      " bbbb",
+      " c c ",
+      "     ",
+      "     "
+    ]
+  ]
+}

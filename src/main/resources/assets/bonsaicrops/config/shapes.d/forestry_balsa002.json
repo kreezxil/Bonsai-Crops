@@ -1,0 +1,61 @@
+{
+  "type": "forestry:balsa",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "forestry:logs.2",
+      "meta": 3
+    },
+    "b": {
+      "name": "forestry:leaves.decorative.1",
+      "meta": 9
+    }
+  },
+  "shape": [
+    [
+      "   ",
+      " b ",
+      " b ",
+      " b ",
+      " b ",
+      " b ",
+      "   ",
+      "   ",
+      "   ",
+      "   ",
+      "   ",
+      "   ",
+      "   "
+    ],
+    [
+      " b ",
+      "bbb",
+      "bab",
+      "bab",
+      "bab",
+      "bab",
+      " a ",
+      " a ",
+      " a ",
+      " a ",
+      " a ",
+      " a ",
+      " a "
+    ],
+    [
+      "   ",
+      " b ",
+      " b ",
+      " b ",
+      " b ",
+      " b ",
+      "   ",
+      "   ",
+      "   ",
+      "   ",
+      "   ",
+      "   ",
+      "   "
+    ]
+  ]
+}

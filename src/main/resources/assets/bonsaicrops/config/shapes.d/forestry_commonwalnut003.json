@@ -1,0 +1,120 @@
+{
+  "type": "forestry:commonWalnut",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "forestry:logs.3",
+      "meta": 1
+    },
+    "b": {
+      "name": "forestry:leaves.decorative.0",
+      "meta": 4
+    },
+    "c": {
+      "name": "forestry:logs.3",
+      "meta": 9
+    },
+    "d": {
+      "name": "forestry:logs.3",
+      "meta": 5
+    }
+  },
+  "shape": [
+    [
+      "         ",
+      "         ",
+      "         ",
+      "   bb    ",
+      "   b     ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "   bbb   ",
+      "  bbbbb  ",
+      "  bbb    ",
+      "   b     ",
+      "   b     ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "    b    ",
+      "   bbb   ",
+      "  bbbbb  ",
+      " bbbbbbb ",
+      " bbdbb   ",
+      "  bbb    ",
+      "  bbb    ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "   bbb   ",
+      "  bbbbb  ",
+      " bbbbbbb ",
+      " bbbbbbb ",
+      " bbdbbb  ",
+      " bbdbbb  ",
+      " bbdbb   ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "  bbbbb  ",
+      "  bbbbb  ",
+      " bbaabbb ",
+      "bbbaabbbb",
+      "  baabbb ",
+      "  baabbb ",
+      "  baabb  ",
+      "   aa    ",
+      "   aa    ",
+      "   aa    "
+    ],
+    [
+      "   bbb   ",
+      "  bbbbb  ",
+      " bbaabbb ",
+      " bbaaabb ",
+      "   aacbbb",
+      "   aaccbb",
+      "   aacbb ",
+      "   aa    ",
+      "   aa    ",
+      "   aa    "
+    ],
+    [
+      "    b    ",
+      "   bbb   ",
+      "  bbbbb  ",
+      " bbbbbbb ",
+      "     bbb ",
+      "    bbbb ",
+      "    bbb  ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "   bb    ",
+      "  bbb b  ",
+      "      b  ",
+      "      b  ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ]
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "type": "extratrees:rainbowgum",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:logs.9",
+      "meta": 1
+    },
+    "b": {
+      "name": "extratrees:leaves.decorative.4",
+      "meta": 10
+    }
+  },
+  "shape": [
+    [
+      "   ",
+      " b ",
+      "bbb",
+      " b ",
+      "bbb",
+      " b ",
+      "   ",
+      "   ",
+      "   ",
+      "   "
+    ],
+    [
+      " b ",
+      "bbb",
+      "bbb",
+      "bab",
+      "bab",
+      "bab",
+      " a ",
+      " a ",
+      " a ",
+      " a "
+    ],
+    [
+      "   ",
+      " b ",
+      "bbb",
+      " b ",
+      "bbb",
+      " b ",
+      "   ",
+      "   ",
+      "   ",
+      "   "
+    ]
+  ]
+}

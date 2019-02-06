@@ -1,0 +1,96 @@
+{
+  "type": "forestry:desertAcacia",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "forestry:leaves.decorative.1",
+      "meta": 7
+    },
+    "b": {
+      "name": "forestry:logs.0",
+      "meta": 2
+    },
+    "c": {
+      "name": "forestry:logs.0",
+      "meta": 10
+    },
+    "d": {
+      "name": "forestry:logs.0",
+      "meta": 6
+    }
+  },
+  "shape": [
+    [
+      "         ",
+      "         ",
+      "         ",
+      "  aaaaa  ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "         ",
+      " aaaaaaa ",
+      "         ",
+      "         "
+    ],
+    [
+      "   aaa   ",
+      "         ",
+      "         ",
+      "aaaaaaaaa",
+      "         ",
+      "         "
+    ],
+    [
+      "  aaaaa  ",
+      "         ",
+      "         ",
+      "aaaadaaaa",
+      "         ",
+      "         "
+    ],
+    [
+      "  aaaaa  ",
+      "    b    ",
+      "    b    ",
+      "aaacbcaaa",
+      "    b    ",
+      "    b    "
+    ],
+    [
+      "  aaaaa  ",
+      "         ",
+      "         ",
+      "aaaadaaaa",
+      "         ",
+      "         "
+    ],
+    [
+      "   aaa   ",
+      "         ",
+      "         ",
+      "aaaaaaaaa",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "         ",
+      " aaaaaaa ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "         ",
+      "  aaaaa  ",
+      "         ",
+      "         "
+    ]
+  ]
+}

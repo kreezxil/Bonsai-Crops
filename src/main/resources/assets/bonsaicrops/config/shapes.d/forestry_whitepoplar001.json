@@ -1,0 +1,52 @@
+{
+  "type": "forestry:whitePoplar",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "forestry:logs.4",
+      "meta": 1
+    },
+    "b": {
+      "name": "forestry:leaves.decorative.2",
+      "meta": 2
+    }
+  },
+  "shape": [
+    [
+      " b ",
+      " b ",
+      " b ",
+      " b ",
+      " b ",
+      " b ",
+      " b ",
+      " b ",
+      " b ",
+      "   "
+    ],
+    [
+      "bbb",
+      "bbb",
+      "bab",
+      "bab",
+      "bab",
+      "bab",
+      "bab",
+      "bab",
+      "bab",
+      " a "
+    ],
+    [
+      " b ",
+      " b ",
+      " b ",
+      " b ",
+      " b ",
+      " b ",
+      " b ",
+      " b ",
+      " b ",
+      "   "
+    ]
+  ]
+}

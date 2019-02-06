@@ -1,0 +1,115 @@
+{
+  "type": "extratrees:yew",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:leaves.decorative.2",
+      "meta": 4
+    },
+    "b": {
+      "name": "extratrees:logs.2",
+      "meta": 3
+    }
+  },
+  "shape": [
+    [
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "   aaa   ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "   aaa   ",
+      "  aaaaa  ",
+      "  aaaaa  ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "    a    ",
+      "  aaaaa  ",
+      "  aaaaa  ",
+      " aaaaaaa ",
+      " aaaaaaa ",
+      "  aaaaa  ",
+      "         "
+    ],
+    [
+      "         ",
+      "    a    ",
+      "   aaa   ",
+      "  aaaaa  ",
+      " aaaaaaa ",
+      " aaaaaaa ",
+      "aaaaaaaaa",
+      "  aaaaa  ",
+      "         "
+    ],
+    [
+      "    a    ",
+      "   aaa   ",
+      "  aaaaa  ",
+      "  aabaa  ",
+      " aaabaaa ",
+      " aaabaaa ",
+      "aaaabaaaa",
+      "  aabaa  ",
+      "    b    "
+    ],
+    [
+      "         ",
+      "    a    ",
+      "   aaa   ",
+      "  aaaaa  ",
+      " aaaaaaa ",
+      " aaaaaaa ",
+      "aaaaaaaaa",
+      "  aaaaa  ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "    a    ",
+      "  aaaaa  ",
+      "  aaaaa  ",
+      " aaaaaaa ",
+      " aaaaaaa ",
+      "  aaaaa  ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "   aaa   ",
+      "  aaaaa  ",
+      "  aaaaa  ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "   aaa   ",
+      "         ",
+      "         "
+    ]
+  ]
+}

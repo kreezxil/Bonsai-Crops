@@ -1,0 +1,51 @@
+{
+  "type": "traverse:brown_autumnal_sapling",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "traverse:brown_autumnal_leaves",
+      "meta": 2
+    },
+    "b": {
+      "name": "minecraft:log",
+      "meta": 0
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "aaaa ",
+      "aaaa ",
+      "     "
+    ],
+    [
+      "  a  ",
+      "  a  ",
+      "aaaaa",
+      "aaaaa",
+      "     "
+    ],
+    [
+      " aaa ",
+      " aba ",
+      "aabaa",
+      "aabaa",
+      "  b  "
+    ],
+    [
+      "  a  ",
+      "  a  ",
+      "aaaaa",
+      "aaaaa",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "aaaaa",
+      "aaaaa",
+      "     "
+    ]
+  ]
+}

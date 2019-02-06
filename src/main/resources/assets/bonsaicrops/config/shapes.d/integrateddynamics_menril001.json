@@ -1,0 +1,127 @@
+{
+  "type": "integrateddynamics:menril",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "integrateddynamics:menril_leaves",
+      "meta": 1
+    },
+    "b": {
+      "name": "integrateddynamics:menril_log",
+      "meta": 1
+    },
+    "c": {
+      "name": "integrateddynamics:menril_log",
+      "meta": 3
+    },
+    "d": {
+      "name": "integrateddynamics:menril_leaves",
+      "meta": 3
+    },
+    "e": {
+      "name": "integrateddynamics:menril_log_filled",
+      "meta": 7
+    }
+  },
+  "shape": [
+    [
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "   aaa   ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "  aaaaa  ",
+      "   aaa   ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "   aaa   ",
+      "   aaa   ",
+      "   aaa   ",
+      " daaaaaa ",
+      "  aaaaa  ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "   aaa   ",
+      "  dabaa  ",
+      "  dabaa  ",
+      "  aabaa  ",
+      "adaaeaaaa",
+      " aaaaaaa ",
+      "         ",
+      "         ",
+      "    c    "
+    ],
+    [
+      "   aaa   ",
+      "  abbba  ",
+      "  abbba  ",
+      "  abbbd  ",
+      "aaabbbaaa",
+      " aaabaaa ",
+      "    b    ",
+      "    b    ",
+      "   cbc   "
+    ],
+    [
+      "   aaa   ",
+      "  aabaa  ",
+      "  aabaa  ",
+      "  aabaa  ",
+      "aaaabaaaa",
+      " aaaaaaa ",
+      "         ",
+      "         ",
+      "    c    "
+    ],
+    [
+      "         ",
+      "   aaa   ",
+      "   aaa   ",
+      "   aaa   ",
+      " aaaaaaa ",
+      "  aaada  ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "  aaaaa  ",
+      "   aaa   ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "   ada   ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ]
+  ]
+}

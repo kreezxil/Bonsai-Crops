@@ -1,0 +1,79 @@
+{
+  "type": "ic2:rubber",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "ic2:leaves",
+      "meta": 12
+    },
+    "b": {
+      "name": "ic2:rubber_wood",
+      "meta": 8
+    },
+    "c": {
+      "name": "ic2:rubber_wood",
+      "meta": 0
+    },
+    "d": {
+      "name": "ic2:leaves",
+      "meta": 4
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "  aa ",
+      " aad ",
+      " aaa ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "     ",
+      " aaa ",
+      "aaad ",
+      "daaaa",
+      "aaaaa",
+      "     ",
+      "     "
+    ],
+    [
+      "  a  ",
+      "  a  ",
+      "  a  ",
+      " aca ",
+      "aabaa",
+      "aacaa",
+      "aacaa",
+      "  c  ",
+      "  c  "
+    ],
+    [
+      "     ",
+      "     ",
+      "     ",
+      " aaa ",
+      " aaa ",
+      "aaaaa",
+      "aaaaa",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "     ",
+      " a a ",
+      "  aa ",
+      " aaa ",
+      " aaa ",
+      "     ",
+      "     "
+    ]
+  ]
+}

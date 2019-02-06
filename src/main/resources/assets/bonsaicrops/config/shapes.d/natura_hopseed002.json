@@ -1,0 +1,71 @@
+{
+  "type": "natura:hopseed",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "natura:overworld_leaves2",
+      "meta": 2
+    },
+    "b": {
+      "name": "natura:overworld_logs2",
+      "meta": 2
+    }
+  },
+  "shape": [
+    [
+      "           ",
+      "           ",
+      "  aaa aaa  "
+    ],
+    [
+      "           ",
+      "  aaaaaaa  ",
+      " aa  aaaaa "
+    ],
+    [
+      "   aa  a   ",
+      " aaaaaaaa  ",
+      "aaaaaaaa aa"
+    ],
+    [
+      "    aa a   ",
+      "   aaaaa a ",
+      "a aaaaaaaa "
+    ],
+    [
+      "  aaaaaaa  ",
+      " aaaabbaaa ",
+      "aaaaabbaa a"
+    ],
+    [
+      "   aaaaaa  ",
+      " aaaabbaaa ",
+      " aaaabbaaaa"
+    ],
+    [
+      "   aaaaaa  ",
+      "  aaaaaa   ",
+      " aaaaaaaaaa"
+    ],
+    [
+      "   aaaaaa  ",
+      "  aaaaaa a ",
+      "  aaaaaaaaa"
+    ],
+    [
+      "     a a   ",
+      "   a aaaaa ",
+      "  aaaaaaaa "
+    ],
+    [
+      "           ",
+      "     aaaa  ",
+      "    aa  a  "
+    ],
+    [
+      "           ",
+      "           ",
+      "     aaaa  "
+    ]
+  ]
+}

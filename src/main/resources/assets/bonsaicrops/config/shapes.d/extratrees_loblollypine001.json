@@ -1,0 +1,24 @@
+{
+  "type": "extratrees:loblollypine",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "forestry:logs.5",
+      "meta": 0
+    },
+    "b": {
+      "name": "extratrees:leaves.decorative.3",
+      "meta": 7
+    }
+  },
+  "shape": [
+    [
+      "b",
+      "b",
+      "b",
+      "a",
+      "a",
+      "a"
+    ]
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "biomesoplenty:orange_autumn",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "minecraft:log2",
+      "meta": 1
+    },
+    "b": {
+      "name": "biomesoplenty:leaves_0",
+      "meta": 1
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "bbbbb",
+      " bbb ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "  b  ",
+      "  b  ",
+      "bbbbb",
+      "bbbbb",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      " bbb ",
+      " bab ",
+      "bbabb",
+      "bbabb",
+      "  a  ",
+      "  a  ",
+      "  a  "
+    ],
+    [
+      "  b  ",
+      " bbb ",
+      "bbbbb",
+      "bbbbb",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "bbbb ",
+      " bbb ",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ]
+}

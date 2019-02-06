@@ -1,0 +1,145 @@
+{
+  "type": "forestry:redSpruce",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "forestry:leaves.decorative.0",
+      "meta": 10
+    },
+    "b": {
+      "name": "minecraft:log",
+      "meta": 1
+    },
+    "c": {
+      "name": "minecraft:log",
+      "meta": 9
+    },
+    "d": {
+      "name": "minecraft:log",
+      "meta": 5
+    }
+  },
+  "shape": [
+    [
+      "           ",
+      "     a     ",
+      "     a     ",
+      "      a    ",
+      "      a    ",
+      "           ",
+      "           ",
+      "           ",
+      "           "
+    ],
+    [
+      "     a     ",
+      "   aaaaa   ",
+      "   aaaaa   ",
+      "    aaaaa  ",
+      "    aaaaa  ",
+      "           ",
+      "           ",
+      "           ",
+      "           "
+    ],
+    [
+      "   aaaaa   ",
+      "  aaaaaaa  ",
+      "  aaaaaaa  ",
+      "   aaaaaaa ",
+      "   aaaaaaa ",
+      "           ",
+      "           ",
+      "           ",
+      "           "
+    ],
+    [
+      "  aaaaaaa  ",
+      "  aaaaaaaa ",
+      "  aaaaaaaa ",
+      "  aaaaaaaa ",
+      "  aaaaaaaa ",
+      "           ",
+      "           ",
+      "           ",
+      "           "
+    ],
+    [
+      "  aaaaaaa  ",
+      " aaaaaaaaa ",
+      " aaaadaaaa ",
+      " aaaaaaaaaa",
+      " aaaadcaaaa",
+      "           ",
+      "           ",
+      "           ",
+      "           "
+    ],
+    [
+      " aaaaaaaaa ",
+      " aaaabaaaa ",
+      "  aaabcaaa ",
+      " aaaabbaaa ",
+      " aaacbcaaa ",
+      "     b     ",
+      "     b     ",
+      "     b     ",
+      "     b     "
+    ],
+    [
+      "  aaaaaaa  ",
+      " aaaaaaaaa ",
+      " aaaadaaaa ",
+      "aaaaabaaaa ",
+      "aaaaddaaaa ",
+      "           ",
+      "           ",
+      "           ",
+      "           "
+    ],
+    [
+      "  aaaaaaa  ",
+      "  aaaaaaaa ",
+      "  aaaaaaaa ",
+      " aaaaaaaaa ",
+      " aaaaaaaa  ",
+      "           ",
+      "           ",
+      "           ",
+      "           "
+    ],
+    [
+      "   aaaaa   ",
+      "  aaaaaaa  ",
+      "  aaaaaaa  ",
+      " aaaaaaaa  ",
+      " aaaaaaa   ",
+      "           ",
+      "           ",
+      "           ",
+      "           "
+    ],
+    [
+      "     a     ",
+      "   aaaaa   ",
+      "   aaaaa   ",
+      "  aaaaaa   ",
+      "  aaaaa    ",
+      "           ",
+      "           ",
+      "           ",
+      "           "
+    ],
+    [
+      "           ",
+      "     a     ",
+      "     a     ",
+      "    aa     ",
+      "    a      ",
+      "           ",
+      "           ",
+      "           ",
+      "           "
+    ]
+  ]
+}

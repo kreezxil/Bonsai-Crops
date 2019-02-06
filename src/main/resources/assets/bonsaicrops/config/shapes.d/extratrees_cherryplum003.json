@@ -1,0 +1,56 @@
+{
+  "type": "extratrees:cherryplum",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:leaves.decorative.0",
+      "meta": 5
+    },
+    "b": {
+      "name": "forestry:logs.5",
+      "meta": 1
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "  a  ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      " aaa ",
+      " aaa ",
+      " aaa ",
+      "     ",
+      "     "
+    ],
+    [
+      "  a  ",
+      " aaa ",
+      "aabaa",
+      " aba ",
+      "  b  ",
+      "  b  "
+    ],
+    [
+      "     ",
+      " aaa ",
+      " aaa ",
+      " aaa ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "  a  ",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ]
+}

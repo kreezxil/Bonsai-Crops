@@ -1,0 +1,56 @@
+{
+  "type": "biomesoplenty:magic",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "biomesoplenty:log_1",
+      "meta": 5
+    },
+    "b": {
+      "name": "biomesoplenty:leaves_0",
+      "meta": 3
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "bbbbb",
+      "bbbbb",
+      "     ",
+      "     "
+    ],
+    [
+      "  b  ",
+      " bb  ",
+      "bbbbb",
+      "bbbbb",
+      "     ",
+      "     "
+    ],
+    [
+      " bbb ",
+      " bab ",
+      "bbabb",
+      "bbabb",
+      "  a  ",
+      "  a  "
+    ],
+    [
+      "  b  ",
+      "  b  ",
+      "bbbbb",
+      "bbbbb",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      " bbbb",
+      " bbb ",
+      "     ",
+      "     "
+    ]
+  ]
+}

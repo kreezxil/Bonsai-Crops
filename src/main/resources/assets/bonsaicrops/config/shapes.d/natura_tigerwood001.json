@@ -1,0 +1,65 @@
+{
+  "type": "natura:tigerwood",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "natura:overworld_logs",
+      "meta": 3
+    },
+    "b": {
+      "name": "natura:overworld_leaves",
+      "meta": 3
+    },
+    "c": {
+      "name": "natura:overworld_leaves",
+      "meta": 11
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "bbbb ",
+      "bbbb ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "  c  ",
+      "  c  ",
+      "bcccb",
+      "bcccb",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      " ccc ",
+      " cac ",
+      "bcacb",
+      "bcacb",
+      "  a  ",
+      "  a  ",
+      "  a  "
+    ],
+    [
+      "  c  ",
+      "  c  ",
+      "bcccb",
+      "bcccb",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "bbbb ",
+      "bbbbb",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "type": "extratrees:yew",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:leaves.decorative.2",
+      "meta": 4
+    },
+    "b": {
+      "name": "extratrees:logs.2",
+      "meta": 3
+    }
+  },
+  "shape": [
+    [
+      "           ",
+      "           ",
+      "           ",
+      "           ",
+      "           ",
+      "           ",
+      "     a     ",
+      "    aaa    ",
+      "   aaaaa   ",
+      "           ",
+      "           "
+    ],
+    [
+      "           ",
+      "           ",
+      "           ",
+      "           ",
+      "           ",
+      "   aaaaa   ",
+      "  aaaaaaa  ",
+      "  aaaaaaa  ",
+      "  aaaaaaa  ",
+      "           ",
+      "           "
+    ],
+    [
+      "           ",
+      "           ",
+      "           ",
+      "     a     ",
+      "   aaaaa   ",
+      "  aaaaaaa  ",
+      " aaaaaaaaa ",
+      " aaaaaaaaa ",
+      " aaaaaaaaa ",
+      "   aaaaa   ",
+      "           "
+    ],
+    [
+      "           ",
+      "           ",
+      "     a     ",
+      "   aaaaa   ",
+      "  aaaaaaa  ",
+      " aaaaaaaaa ",
+      " aaaaaaaaa ",
+      " aaaaaaaaa ",
+      "aaaaaaaaaaa",
+      "  aaaaaaa  ",
+      "           "
+    ],
+    [
+      "           ",
+      "     a     ",
+      "    aaa    ",
+      "   aaaaa   ",
+      "  aaaaaaa  ",
+      " aaaaaaaaa ",
+      " aaaaaaaaa ",
+      "aaaaaaaaaaa",
+      "aaaaaaaaaaa",
+      "  aaaaaaa  ",
+      "           "
+    ],
+    [
+      "     a     ",
+      "    aaa    ",
+      "   aaaaa   ",
+      "  aaabaaa  ",
+      "  aaabaaa  ",
+      " aaaabaaaa ",
+      " aaaabaaaaa",
+      "aaaaabaaaaa",
+      "aaaaabaaaaa",
+      "  aaabaaa  ",
+      "     b     "
+    ],
+    [
+      "           ",
+      "     a     ",
+      "    aaa    ",
+      "   aaaaa   ",
+      "  aaaaaaa  ",
+      " aaaaaaaaa ",
+      " aaaaaaaaa ",
+      "aaaaaaaaaaa",
+      "aaaaaaaaaaa",
+      "  aaaaaaa  ",
+      "           "
+    ],
+    [
+      "           ",
+      "           ",
+      "     a     ",
+      "   aaaaa   ",
+      "  aaaaaaa  ",
+      " aaaaaaaaa ",
+      " aaaaaaaaa ",
+      " aaaaaaaaa ",
+      "aaaaaaaaaaa",
+      "  aaaaaaa  ",
+      "           "
+    ],
+    [
+      "           ",
+      "           ",
+      "           ",
+      "     a     ",
+      "   aaaaa   ",
+      "  aaaaaaa  ",
+      " aaaaaaaaa ",
+      " aaaaaaaaa ",
+      " aaaaaaaaa ",
+      "   aaaaa   ",
+      "           "
+    ],
+    [
+      "           ",
+      "           ",
+      "           ",
+      "           ",
+      "           ",
+      "   aaaaa   ",
+      "  aaaaaaa  ",
+      "  aaaaaaa  ",
+      "  aaaaaaa  ",
+      "           ",
+      "           "
+    ],
+    [
+      "           ",
+      "           ",
+      "           ",
+      "           ",
+      "           ",
+      "           ",
+      "           ",
+      "    aaa    ",
+      "   aaaaa   ",
+      "           ",
+      "           "
+    ]
+  ]
+}

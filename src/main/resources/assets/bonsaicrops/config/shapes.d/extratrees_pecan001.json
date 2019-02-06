@@ -1,0 +1,124 @@
+{
+  "type": "extratrees:pecan",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:leaves.decorative.2",
+      "meta": 11
+    },
+    "b": {
+      "name": "extratrees:logs.3",
+      "meta": 3
+    }
+  },
+  "shape": [
+    [
+      "         ",
+      "         ",
+      "         ",
+      "   aaa   ",
+      "  aaaaa  ",
+      "  aaaaa  ",
+      "  aaaaa  ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "  aaaaa  ",
+      " aaaaaaa ",
+      " aaaaaaa ",
+      " aaaaaaa ",
+      " aaaaaaa ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "  aaaaa  ",
+      " aaaaaaa ",
+      " aaaaaaa ",
+      "aaaaaaaaa",
+      "aaaaaaaaa",
+      "aaaaaaaaa",
+      "  aaaaa  ",
+      "         ",
+      "         "
+    ],
+    [
+      "   aaa   ",
+      "  aaaaa  ",
+      " aaaaaaa ",
+      "aaaaaaaaa",
+      "aaaaaaaaa",
+      "aaaaaaaaa",
+      "aaaaaaaaa",
+      "  aaaaa  ",
+      "         ",
+      "         "
+    ],
+    [
+      "   aaa   ",
+      "  aaaaa  ",
+      " aaabaaa ",
+      "aaaabaaaa",
+      "aaaabaaaa",
+      "aaaabaaaa",
+      "aaaabaaaa",
+      "  aabaa  ",
+      "    b    ",
+      "    b    "
+    ],
+    [
+      "   aaa   ",
+      "  aaaaa  ",
+      " aaaaaaa ",
+      "aaaaaaaaa",
+      "aaaaaaaaa",
+      "aaaaaaaaa",
+      "aaaaaaaaa",
+      "  aaaaa  ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "  aaaaa  ",
+      " aaaaaaa ",
+      " aaaaaaa ",
+      "aaaaaaaaa",
+      "aaaaaaaaa",
+      "aaaaaaaaa",
+      "  aaaaa  ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "  aaaaa  ",
+      " aaaaaaa ",
+      " aaaaaaa ",
+      " aaaaaaa ",
+      " aaaaaaa ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "         ",
+      "   aaa   ",
+      "  aaaaa  ",
+      "  aaaaa  ",
+      "  aaaaa  ",
+      "         ",
+      "         ",
+      "         "
+    ]
+  ]
+}

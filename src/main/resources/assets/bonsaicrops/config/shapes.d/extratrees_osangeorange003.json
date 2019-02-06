@@ -1,0 +1,51 @@
+{
+  "type": "extratrees:osangeorange",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:leaves.decorative.3",
+      "meta": 11
+    },
+    "b": {
+      "name": "extratrees:logs.6",
+      "meta": 1
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "     ",
+      "  a  ",
+      "     "
+    ],
+    [
+      "  a  ",
+      "  a  ",
+      "  a  ",
+      " aaa ",
+      "     "
+    ],
+    [
+      " aaa ",
+      " aba ",
+      " aba ",
+      "aabaa",
+      "  b  "
+    ],
+    [
+      "  a  ",
+      "  a  ",
+      "  a  ",
+      " aaa ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "     ",
+      "  a  ",
+      "     "
+    ]
+  ]
+}

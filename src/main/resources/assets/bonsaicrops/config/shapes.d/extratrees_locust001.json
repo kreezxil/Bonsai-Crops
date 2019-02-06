@@ -1,0 +1,51 @@
+{
+  "type": "extratrees:locust",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:leaves.decorative.3",
+      "meta": 9
+    },
+    "b": {
+      "name": "extratrees:logs.5",
+      "meta": 3
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "  a  ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "  a  ",
+      " aaa ",
+      " aaa ",
+      "     ",
+      "     "
+    ],
+    [
+      " aaa ",
+      "aaaaa",
+      " aba ",
+      "  b  ",
+      "  b  "
+    ],
+    [
+      "  a  ",
+      " aaa ",
+      " aaa ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "  a  ",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ]
+}

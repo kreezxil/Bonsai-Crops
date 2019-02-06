@@ -1,0 +1,46 @@
+{
+  "type": "extratrees:clove",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:leaves.decorative.4",
+      "meta": 7
+    },
+    "b": {
+      "name": "extratrees:logs.8",
+      "meta": 2
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "  a  ",
+      "     ",
+      "     "
+    ],
+    [
+      "  a  ",
+      " aaa ",
+      " aaa ",
+      "     "
+    ],
+    [
+      " aaa ",
+      "aabaa",
+      " aba ",
+      "  b  "
+    ],
+    [
+      "  a  ",
+      " aaa ",
+      " aaa ",
+      "     "
+    ],
+    [
+      "     ",
+      "  a  ",
+      "     ",
+      "     "
+    ]
+  ]
+}

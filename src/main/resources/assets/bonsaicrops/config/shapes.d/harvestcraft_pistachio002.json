@@ -1,0 +1,69 @@
+{
+  "type": "harvestcraft:pistachio",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "minecraft:log",
+      "meta": 3
+    },
+    "b": {
+      "name": "harvestcraft:pampistachio",
+      "meta": 0
+    },
+    "c": {
+      "name": "minecraft:leaves",
+      "meta": 3
+    },
+    "d": {
+      "name": "minecraft:leaves",
+      "meta": 11
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "cccc ",
+      "cccc ",
+      " b b ",
+      "     ",
+      "     "
+    ],
+    [
+      "  d  ",
+      "  d  ",
+      "cdddc",
+      "cdddc",
+      " b  b",
+      "     ",
+      "     "
+    ],
+    [
+      " ddd ",
+      " dad ",
+      "cdadc",
+      "cdadc",
+      "b a  ",
+      "  a  ",
+      "  a  "
+    ],
+    [
+      "  d  ",
+      " dd  ",
+      "cdddc",
+      "cdddc",
+      "bb   ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "ccccc",
+      " ccc ",
+      " b   ",
+      "     ",
+      "     "
+    ]
+  ]
+}

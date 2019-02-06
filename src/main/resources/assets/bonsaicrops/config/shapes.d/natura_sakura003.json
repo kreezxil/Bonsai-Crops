@@ -1,0 +1,74 @@
+{
+  "type": "natura:sakura",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "natura:overworld_logs2",
+      "meta": 3
+    },
+    "b": {
+      "name": "natura:overworld_leaves2",
+      "meta": 3
+    },
+    "c": {
+      "name": "natura:overworld_leaves2",
+      "meta": 11
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      " bbb ",
+      " bbb ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      " bbb ",
+      "bbbbb",
+      "bbbbb",
+      "  b  ",
+      "     ",
+      "     "
+    ],
+    [
+      "  b  ",
+      "bcccb",
+      "bcccb",
+      "bcccb",
+      " ccc ",
+      "     ",
+      "     "
+    ],
+    [
+      " bbb ",
+      "bcccb",
+      "bcacb",
+      "bcccb",
+      "  a  ",
+      "  a  ",
+      "  a  "
+    ],
+    [
+      "  b  ",
+      "bcccb",
+      "bcccb",
+      " ccc ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      " bbb ",
+      " bbb ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ]
+}

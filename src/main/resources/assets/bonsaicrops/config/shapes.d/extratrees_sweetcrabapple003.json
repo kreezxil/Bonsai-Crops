@@ -1,0 +1,65 @@
+{
+  "type": "extratrees:sweetcrabapple",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:leaves.decorative.0",
+      "meta": 1
+    },
+    "b": {
+      "name": "extratrees:logs.0",
+      "meta": 0
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      "  aaa  ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "  aaa  ",
+      " aaaaa ",
+      "       ",
+      "       "
+    ],
+    [
+      "  aaa  ",
+      " aaaaa ",
+      "aaaaaaa",
+      "  aaa  ",
+      "       "
+    ],
+    [
+      "  aaa  ",
+      " aabaa ",
+      "aaabaaa",
+      "  aba  ",
+      "   b   "
+    ],
+    [
+      "  aaa  ",
+      " aaaaa ",
+      "aaaaaaa",
+      "  aaa  ",
+      "       "
+    ],
+    [
+      "       ",
+      "  aaa  ",
+      " aaaaa ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "  aaa  ",
+      "       ",
+      "       "
+    ]
+  ]
+}

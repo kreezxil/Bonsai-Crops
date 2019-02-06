@@ -1,0 +1,60 @@
+{
+  "type": "natura:silverbell",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "natura:overworld_logs",
+      "meta": 1
+    },
+    "b": {
+      "name": "natura:overworld_leaves",
+      "meta": 9
+    },
+    "c": {
+      "name": "natura:overworld_leaves",
+      "meta": 1
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      " ccc ",
+      " ccc ",
+      "     ",
+      "     "
+    ],
+    [
+      "  b  ",
+      "  b  ",
+      "cbbbc",
+      "cbbbc",
+      "     ",
+      "     "
+    ],
+    [
+      " bbb ",
+      " bab ",
+      "cbabc",
+      "cbabc",
+      "  a  ",
+      "  a  "
+    ],
+    [
+      "  b  ",
+      " bbb ",
+      "cbbbc",
+      "cbbbc",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "ccccc",
+      "ccccc",
+      "     ",
+      "     "
+    ]
+  ]
+}

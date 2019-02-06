@@ -1,0 +1,115 @@
+{
+  "type": "forestry:jungle",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "minecraft:log",
+      "meta": 3
+    },
+    "b": {
+      "name": "forestry:leaves.decorative.0",
+      "meta": 15
+    },
+    "c": {
+      "name": "minecraft:cocoa",
+      "meta": 1
+    },
+    "d": {
+      "name": "minecraft:cocoa",
+      "meta": 3
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      "  bbb  ",
+      "  bbb  ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      " bbbbb ",
+      " bbbbb ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "   b   ",
+      "  bbb  ",
+      "bbbbbbb",
+      "bbbbbbb",
+      "       ",
+      "       ",
+      "   c   ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "  bbb  ",
+      "  bbb  ",
+      "bbbabbb",
+      "bbbabbb",
+      "   a   ",
+      "   a   ",
+      "   a   ",
+      "   a   ",
+      "   a   ",
+      "   a   ",
+      "   a   "
+    ],
+    [
+      "   b   ",
+      "  bbb  ",
+      "bbbbbbb",
+      "bbbbbbb",
+      "   d   ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      " bbbbb ",
+      " bbbbb ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "  bbb  ",
+      "  bbb  ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ]
+  ]
+}

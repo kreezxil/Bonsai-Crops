@@ -1,0 +1,55 @@
+{
+  "type": "twilightforest:oak",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "twilightforest:twilight_leaves",
+      "meta": 8
+    },
+    "b": {
+      "name": "twilightforest:twilight_leaves",
+      "meta": 0
+    },
+    "c": {
+      "name": "twilightforest:twilight_log",
+      "meta": 0
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      " bbbb",
+      " bbb ",
+      "     "
+    ],
+    [
+      "  a  ",
+      "  a  ",
+      "baaab",
+      "baaab",
+      "     "
+    ],
+    [
+      " aaa ",
+      " aca ",
+      "bacab",
+      "bacab",
+      "  c  "
+    ],
+    [
+      "  a  ",
+      " aa  ",
+      "baaab",
+      "baaab",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      " bbbb",
+      "bbbb ",
+      "     "
+    ]
+  ]
+}

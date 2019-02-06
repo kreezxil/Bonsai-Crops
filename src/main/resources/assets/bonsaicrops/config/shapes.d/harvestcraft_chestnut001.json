@@ -1,0 +1,69 @@
+{
+  "type": "harvestcraft:chestnut",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "minecraft:log",
+      "meta": 0
+    },
+    "b": {
+      "name": "minecraft:leaves",
+      "meta": 0
+    },
+    "c": {
+      "name": "minecraft:leaves",
+      "meta": 8
+    },
+    "d": {
+      "name": "harvestcraft:pamchestnut",
+      "meta": 0
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      " bbb ",
+      " bbbb",
+      "   d ",
+      "     ",
+      "     "
+    ],
+    [
+      "  c  ",
+      "  c  ",
+      "bcccb",
+      "bcccb",
+      " d dd",
+      "     ",
+      "     "
+    ],
+    [
+      " ccc ",
+      " cac ",
+      "bcacb",
+      "bcacb",
+      "  a d",
+      "  a  ",
+      "  a  "
+    ],
+    [
+      "  c  ",
+      "  c  ",
+      "bcccb",
+      "bcccb",
+      "  d  ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "bbbb ",
+      "dbbb ",
+      " d   ",
+      "     ",
+      "     "
+    ]
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "type": "natura:maple",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "natura:overworld_leaves",
+      "meta": 8
+    },
+    "b": {
+      "name": "natura:overworld_leaves",
+      "meta": 0
+    },
+    "c": {
+      "name": "natura:overworld_logs",
+      "meta": 0
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      " bbb ",
+      "bbbbb",
+      "     "
+    ],
+    [
+      "  a  ",
+      "  a  ",
+      "baaab",
+      "baaab",
+      "     "
+    ],
+    [
+      " aaa ",
+      " aca ",
+      "bacab",
+      "bacab",
+      "  c  "
+    ],
+    [
+      "  a  ",
+      " aa  ",
+      "baaab",
+      "baaab",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "bbbb ",
+      " bbbb",
+      "     "
+    ]
+  ]
+}

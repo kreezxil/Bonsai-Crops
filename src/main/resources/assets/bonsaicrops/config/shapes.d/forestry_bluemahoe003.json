@@ -1,0 +1,104 @@
+{
+  "type": "forestry:blueMahoe",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "forestry:leaves.decorative.1",
+      "meta": 13
+    },
+    "b": {
+      "name": "forestry:logs.4",
+      "meta": 0
+    },
+    "c": {
+      "name": "forestry:logs.4",
+      "meta": 4
+    },
+    "d": {
+      "name": "forestry:logs.4",
+      "meta": 8
+    }
+  },
+  "shape": [
+    [
+      "         ",
+      "         ",
+      "     a   ",
+      "     a   ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "   aaaaa ",
+      "   aaaaa ",
+      "   a     ",
+      "   a     ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "    aaa  ",
+      "   aaaaa ",
+      "   aaaaa ",
+      " aaaaaaa ",
+      " aaaaaa  ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "   aaaaa ",
+      "  aaaaaaa",
+      "  aaabaaa",
+      " aaaacaa ",
+      " aaaaaaa ",
+      "         ",
+      "         "
+    ],
+    [
+      "     a   ",
+      "   aaaaa ",
+      "  aaaaaaa",
+      "  aaabaaa",
+      "aaaaabaa ",
+      "aaaddbaa ",
+      "     b   ",
+      "     b   "
+    ],
+    [
+      "         ",
+      "   aaaaa ",
+      "   aaaaa ",
+      "   aaaaa ",
+      " aaaaaaa ",
+      " aaaaaaa ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "    aaa  ",
+      "   aaaaa ",
+      "   aaaaa ",
+      " aaaaaaa ",
+      " aaaaaa  ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "     a   ",
+      "     a   ",
+      "   a     ",
+      "   a     ",
+      "         ",
+      "         "
+    ]
+  ]
+}

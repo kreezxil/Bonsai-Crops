@@ -1,0 +1,74 @@
+{
+  "type": "harvestcraft:starfruit",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "minecraft:log",
+      "meta": 3
+    },
+    "b": {
+      "name": "harvestcraft:pamstarfruit",
+      "meta": 0
+    },
+    "c": {
+      "name": "minecraft:leaves",
+      "meta": 3
+    },
+    "d": {
+      "name": "minecraft:leaves",
+      "meta": 11
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "cccc ",
+      "bccc ",
+      "   b ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "  d  ",
+      "  d  ",
+      "cdddc",
+      "cdddc",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      " ddd ",
+      " dad ",
+      "cdadc",
+      "cdadc",
+      "  a  ",
+      "  a  ",
+      "  a  ",
+      "  a  "
+    ],
+    [
+      "  d  ",
+      "  d  ",
+      "cdddc",
+      "cdddc",
+      "   b ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      " cccc",
+      "ccccc",
+      " bb  ",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ]
+}

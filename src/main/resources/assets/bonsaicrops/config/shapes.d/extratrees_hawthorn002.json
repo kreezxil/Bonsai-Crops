@@ -1,0 +1,40 @@
+{
+  "type": "extratrees:hawthorn",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:logs.2",
+      "meta": 1
+    },
+    "b": {
+      "name": "extratrees:leaves.decorative.2",
+      "meta": 10
+    }
+  },
+  "shape": [
+    [
+      " b ",
+      "bbb",
+      " b ",
+      "bbb",
+      " b ",
+      " b "
+    ],
+    [
+      "bbb",
+      "bbb",
+      "bab",
+      "bab",
+      "bab",
+      "bab"
+    ],
+    [
+      " b ",
+      "bbb",
+      " b ",
+      "bbb",
+      " b ",
+      " b "
+    ]
+  ]
+}

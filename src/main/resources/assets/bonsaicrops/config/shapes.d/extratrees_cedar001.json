@@ -1,0 +1,61 @@
+{
+  "type": "extratrees:cedar",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:leaves.decorative.3",
+      "meta": 3
+    },
+    "b": {
+      "name": "extratrees:logs.5",
+      "meta": 0
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "   a ",
+      "     ",
+      "     "
+    ],
+    [
+      "  aa ",
+      "  aa ",
+      "  aa ",
+      " aaaa",
+      "  aaa",
+      "   a ",
+      "     "
+    ],
+    [
+      " aaaa",
+      " aaaa",
+      " aaaa",
+      "aaaaa",
+      " abba",
+      "  bb ",
+      "  bb "
+    ],
+    [
+      " aaaa",
+      " aaaa",
+      " aaaa",
+      "aaaaa",
+      " abba",
+      "  bb ",
+      "  bb "
+    ],
+    [
+      "  aa ",
+      "  aa ",
+      "  aa ",
+      " aaa ",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ]
+}

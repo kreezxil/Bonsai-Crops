@@ -1,0 +1,109 @@
+{
+  "type": "forestry:datePalm",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "forestry:leaves.decorative.2",
+      "meta": 1
+    },
+    "b": {
+      "name": "forestry:logs.4",
+      "meta": 2
+    },
+    "c": {
+      "name": "forestry:pods.dates",
+      "meta": 2
+    },
+    "d": {
+      "name": "forestry:pods.dates",
+      "meta": 1
+    },
+    "e": {
+      "name": "forestry:pods.dates",
+      "meta": 3
+    },
+    "f": {
+      "name": "forestry:pods.dates",
+      "meta": 0
+    }
+  },
+  "shape": [
+    [
+      "  aaa  ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      " aaaaa ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "aaaaaaa",
+      "  aaa  ",
+      "   a   ",
+      "       ",
+      "       ",
+      "   d   ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "aaaaaaa",
+      "  aaa  ",
+      "  aba  ",
+      "   bc  ",
+      "   bc  ",
+      "  fb   ",
+      "   b   ",
+      "   b   ",
+      "   b   "
+    ],
+    [
+      "aaaaaaa",
+      "  aaa  ",
+      "   a   ",
+      "   e   ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      " aaaaa ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "  aaa  ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ]
+  ]
+}

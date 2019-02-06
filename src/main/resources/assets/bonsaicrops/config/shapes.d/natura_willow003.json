@@ -1,0 +1,83 @@
+{
+  "type": "natura:willow",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "natura:overworld_leaves2",
+      "meta": 0
+    },
+    "b": {
+      "name": "natura:overworld_leaves2",
+      "meta": 8
+    },
+    "c": {
+      "name": "natura:overworld_logs2",
+      "meta": 0
+    }
+  },
+  "shape": [
+    [
+      "        ",
+      "        ",
+      " aa     ",
+      " aa  aaa",
+      " aa  aaa"
+    ],
+    [
+      "        ",
+      "        ",
+      " aaaaaa ",
+      " aaaaaaa",
+      "       a"
+    ],
+    [
+      "   aaaa ",
+      "  aaaaa ",
+      " aaaaaaa",
+      " aaaaaaa",
+      "        "
+    ],
+    [
+      "  abbba ",
+      " aabbba ",
+      " aabbbaa",
+      "aaabbbaa",
+      "a       "
+    ],
+    [
+      "  abbbaa",
+      " aabcbaa",
+      " aabbbaa",
+      "aaabcbaa",
+      "a   c   "
+    ],
+    [
+      "  abbba ",
+      " aabbba ",
+      "aaabbbaa",
+      "aaabbbaa",
+      "a       "
+    ],
+    [
+      "   aaa  ",
+      "   aaaa ",
+      "aaaaaaaa",
+      "aaaaaaaa",
+      "a       "
+    ],
+    [
+      "        ",
+      "      a ",
+      "  aaaaaa",
+      " aaaaaaa",
+      " a      "
+    ],
+    [
+      "        ",
+      "        ",
+      "    a aa",
+      "  aaa aa",
+      "  aaa aa"
+    ]
+  ]
+}

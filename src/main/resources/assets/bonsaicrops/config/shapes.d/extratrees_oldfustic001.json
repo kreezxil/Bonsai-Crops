@@ -1,0 +1,46 @@
+{
+  "type": "extratrees:oldfustic",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:leaves.decorative.3",
+      "meta": 12
+    },
+    "b": {
+      "name": "extratrees:logs.6",
+      "meta": 1
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "  a  ",
+      "     ",
+      "     "
+    ],
+    [
+      "  a  ",
+      " aaa ",
+      " aaa ",
+      "     "
+    ],
+    [
+      " aaa ",
+      "aabaa",
+      " aba ",
+      "  b  "
+    ],
+    [
+      "  a  ",
+      " aaa ",
+      " aaa ",
+      "     "
+    ],
+    [
+      "     ",
+      "  a  ",
+      "     ",
+      "     "
+    ]
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "type": "extratrees:brazilnut",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "minecraft:log",
+      "meta": 3
+    },
+    "b": {
+      "name": "extratrees:leaves.decorative.4",
+      "meta": 3
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      " bbb ",
+      "bbbbb",
+      "bbbbb",
+      " bbb ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      " bbb ",
+      "bbbbb",
+      "bbbbb",
+      "bbbbb",
+      "bbbbb",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      " bbb ",
+      "bbbbb",
+      "bbabb",
+      "bbabb",
+      "bbabb",
+      "  a  ",
+      "  a  ",
+      "  a  ",
+      "  a  ",
+      "  a  ",
+      "  a  ",
+      "  a  ",
+      "  a  "
+    ],
+    [
+      " bbb ",
+      "bbbbb",
+      "bbbbb",
+      "bbbbb",
+      "bbbbb",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      " bbb ",
+      "bbbbb",
+      "bbbbb",
+      " bbb ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ]
+}

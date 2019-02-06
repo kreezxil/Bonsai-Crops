@@ -1,0 +1,132 @@
+{
+  "type": "primal:yew",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "primal:leaves",
+      "meta": 9
+    },
+    "b": {
+      "name": "primal:leaves",
+      "meta": 1
+    },
+    "c": {
+      "name": "primal:logs",
+      "meta": 1
+    },
+    "d": {
+      "name": "primal:logs",
+      "meta": 5
+    }
+  },
+  "shape": [
+    [
+      "        ",
+      "        ",
+      " bbb    ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        "
+    ],
+    [
+      "        ",
+      "  b     ",
+      "baaab   ",
+      "  a     ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        "
+    ],
+    [
+      "        ",
+      " bbbb   ",
+      "baaab   ",
+      " adabbb ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        "
+    ],
+    [
+      "   b    ",
+      " baaab  ",
+      "baabab  ",
+      "  aaaaab",
+      "  d  a  ",
+      "  ada   ",
+      " baa    ",
+      "        ",
+      "        ",
+      "        "
+    ],
+    [
+      "  bbb   ",
+      " baaab  ",
+      " bbcbbb ",
+      "   caaab",
+      "  bcadb ",
+      " bacda  ",
+      "bbacd   ",
+      "  ac    ",
+      "   c    ",
+      "   c    "
+    ],
+    [
+      "   b    ",
+      " baaab  ",
+      "   b b  ",
+      "   aaaab",
+      " baaaa  ",
+      " baaaa  ",
+      "bbaaa   ",
+      " bab    ",
+      "        ",
+      "        "
+    ],
+    [
+      "        ",
+      "  bbb   ",
+      "        ",
+      "  bbbbb ",
+      " bbbbb  ",
+      " bbbbb  ",
+      "bbbbb   ",
+      "  b     ",
+      "        ",
+      "        "
+    ],
+    [
+      "        ",
+      "        ",
+      "        ",
+      "   b    ",
+      " bbbbb  ",
+      "  bbb   ",
+      " bbb    ",
+      "        ",
+      "        ",
+      "        "
+    ],
+    [
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "  bbb   ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        "
+    ]
+  ]
+}

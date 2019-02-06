@@ -1,0 +1,61 @@
+{
+  "type": "biomesoplenty:jacaranda",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "biomesoplenty:log_3",
+      "meta": 4
+    },
+    "b": {
+      "name": "biomesoplenty:leaves_3",
+      "meta": 2
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "bbbbb",
+      "bbbbb",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "  b  ",
+      " bb  ",
+      "bbbbb",
+      "bbbbb",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      " bbb ",
+      " bab ",
+      "bbabb",
+      "bbabb",
+      "  a  ",
+      "  a  ",
+      "  a  "
+    ],
+    [
+      "  b  ",
+      "  bb ",
+      "bbbbb",
+      "bbbbb",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      " bbb ",
+      " bbbb",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ]
+}

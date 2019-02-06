@@ -1,0 +1,37 @@
+{
+  "type": "extratrees:aspen",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "forestry:logs.4",
+      "meta": 1
+    },
+    "b": {
+      "name": "extratrees:leaves.decorative.2",
+      "meta": 3
+    }
+  },
+  "shape": [
+    [
+      " b ",
+      "bbb",
+      "   ",
+      "   ",
+      "   "
+    ],
+    [
+      "bbb",
+      "bab",
+      " a ",
+      " a ",
+      " a "
+    ],
+    [
+      " b ",
+      "bbb",
+      "   ",
+      "   ",
+      "   "
+    ]
+  ]
+}

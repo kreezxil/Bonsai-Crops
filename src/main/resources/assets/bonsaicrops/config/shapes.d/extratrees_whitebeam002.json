@@ -1,0 +1,37 @@
+{
+  "type": "extratrees:whitebeam",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:logs.0",
+      "meta": 3
+    },
+    "b": {
+      "name": "extratrees:leaves.decorative.2",
+      "meta": 9
+    }
+  },
+  "shape": [
+    [
+      "   ",
+      "   ",
+      " b ",
+      " b ",
+      "   "
+    ],
+    [
+      " b ",
+      " b ",
+      "bab",
+      "bab",
+      " a "
+    ],
+    [
+      "   ",
+      "   ",
+      " b ",
+      " b ",
+      "   "
+    ]
+  ]
+}

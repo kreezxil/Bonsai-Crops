@@ -1,0 +1,34 @@
+{
+  "type": "extratrees:chilli",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "minecraft:log",
+      "meta": 3
+    },
+    "b": {
+      "name": "extratrees:leaves.decorative.5",
+      "meta": 11
+    }
+  },
+  "shape": [
+    [
+      "   ",
+      "bbb",
+      " b ",
+      "   "
+    ],
+    [
+      " b ",
+      "bab",
+      "bab",
+      " a "
+    ],
+    [
+      "   ",
+      "bbb",
+      " b ",
+      "   "
+    ]
+  ]
+}

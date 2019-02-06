@@ -1,0 +1,17 @@
+{
+  "result": {
+    "item": "bonsaitrees:bonsaipot",
+    "data": 0,
+    "count": 1
+  },
+  "pattern": [
+    "b b",
+    "bbb"
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "b": {
+      "item": "minecraft:brick"
+    }
+  }
+}

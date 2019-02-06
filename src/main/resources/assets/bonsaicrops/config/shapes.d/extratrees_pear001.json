@@ -1,0 +1,46 @@
+{
+  "type": "extratrees:pear",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:leaves.decorative.3",
+      "meta": 10
+    },
+    "b": {
+      "name": "extratrees:logs.6",
+      "meta": 0
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "  a  ",
+      "     ",
+      "     "
+    ],
+    [
+      "  a  ",
+      " aaa ",
+      "     ",
+      "     "
+    ],
+    [
+      " aaa ",
+      "aabaa",
+      "  b  ",
+      "  b  "
+    ],
+    [
+      "  a  ",
+      " aaa ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "  a  ",
+      "     ",
+      "     "
+    ]
+  ]
+}

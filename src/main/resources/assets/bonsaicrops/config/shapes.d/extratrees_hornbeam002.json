@@ -1,0 +1,37 @@
+{
+  "type": "extratrees:hornbeam",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:logs.4",
+      "meta": 3
+    },
+    "b": {
+      "name": "extratrees:leaves.decorative.2",
+      "meta": 15
+    }
+  },
+  "shape": [
+    [
+      "   ",
+      " b ",
+      "   ",
+      "   ",
+      "   "
+    ],
+    [
+      " b ",
+      "bbb",
+      " a ",
+      " a ",
+      " a "
+    ],
+    [
+      "   ",
+      " b ",
+      "   ",
+      "   ",
+      "   "
+    ]
+  ]
+}

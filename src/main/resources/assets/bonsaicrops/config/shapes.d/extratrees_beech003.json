@@ -1,0 +1,79 @@
+{
+  "type": "extratrees:beech",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:leaves.decorative.2",
+      "meta": 1
+    },
+    "b": {
+      "name": "extratrees:logs.2",
+      "meta": 0
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      "  aaa  ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "  aaa  ",
+      " aaaaa ",
+      " aaaaa ",
+      "  aaa  ",
+      "       ",
+      "       "
+    ],
+    [
+      "   a   ",
+      " aaaaa ",
+      "aaaaaaa",
+      " aaaaa ",
+      " aaaaa ",
+      "       ",
+      "       "
+    ],
+    [
+      "  aaa  ",
+      " aaaaa ",
+      "aaabaaa",
+      " aabaa ",
+      " aabaa ",
+      "   b   ",
+      "   b   "
+    ],
+    [
+      "   a   ",
+      " aaaaa ",
+      "aaaaaaa",
+      " aaaaa ",
+      " aaaaa ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "  aaa  ",
+      " aaaaa ",
+      " aaaaa ",
+      "  aaa  ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "  aaa  ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ]
+  ]
+}

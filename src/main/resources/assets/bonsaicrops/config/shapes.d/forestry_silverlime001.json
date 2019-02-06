@@ -1,0 +1,65 @@
+{
+  "type": "forestry:silverLime",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "forestry:leaves.decorative.0",
+      "meta": 3
+    },
+    "b": {
+      "name": "forestry:logs.0",
+      "meta": 3
+    },
+    "c": {
+      "name": "forestry:logs.0",
+      "meta": 11
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "  a  ",
+      " aaa ",
+      " aaa ",
+      " aaa ",
+      "     ",
+      "     "
+    ],
+    [
+      "  a  ",
+      " aaa ",
+      "aaaaa",
+      "aaaaa",
+      "aaaaa",
+      "     ",
+      "     "
+    ],
+    [
+      " aaa ",
+      "aaaaa",
+      "aabaa",
+      "acbaa",
+      "aabaa",
+      "  b  ",
+      "  b  "
+    ],
+    [
+      "  a  ",
+      " aaa ",
+      "aaaaa",
+      "aaaaa",
+      "aaaaa",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "  a  ",
+      " aaa ",
+      " aaa ",
+      " aaa ",
+      "     ",
+      "     "
+    ]
+  ]
+}

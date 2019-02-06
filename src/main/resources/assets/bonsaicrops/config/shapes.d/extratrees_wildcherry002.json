@@ -1,0 +1,56 @@
+{
+  "type": "extratrees:wildcherry",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:leaves.decorative.0",
+      "meta": 10
+    },
+    "b": {
+      "name": "extratrees:logs.9",
+      "meta": 2
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "  a  ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      " aaa ",
+      " aaa ",
+      " aaa ",
+      "     ",
+      "     "
+    ],
+    [
+      "  a  ",
+      " aaa ",
+      "aabaa",
+      " aba ",
+      "  b  ",
+      "  b  "
+    ],
+    [
+      "     ",
+      " aaa ",
+      " aaa ",
+      " aaa ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "  a  ",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ]
+}

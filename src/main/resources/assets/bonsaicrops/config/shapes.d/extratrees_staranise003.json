@@ -1,0 +1,37 @@
+{
+  "type": "extratrees:staranise",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "minecraft:log",
+      "meta": 3
+    },
+    "b": {
+      "name": "extratrees:leaves.decorative.5",
+      "meta": 12
+    }
+  },
+  "shape": [
+    [
+      "   ",
+      "bbb",
+      " b ",
+      "   ",
+      "   "
+    ],
+    [
+      " b ",
+      "bab",
+      " ab",
+      " a ",
+      " a "
+    ],
+    [
+      "   ",
+      "bbb",
+      "   ",
+      "   ",
+      "   "
+    ]
+  ]
+}

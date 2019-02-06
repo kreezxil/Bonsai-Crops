@@ -1,0 +1,100 @@
+{
+  "type": "biomesoplenty:bamboo",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "biomesoplenty:bamboo",
+      "meta": 0
+    },
+    "b": {
+      "name": "biomesoplenty:leaves_0",
+      "meta": 2
+    },
+    "c": {
+      "name": "biomesoplenty:leaves_0",
+      "meta": 10
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      " bbb ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "  bc ",
+      "bcccb",
+      " bcc ",
+      "  b  ",
+      " bbb ",
+      "  b  ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "  b  ",
+      " cac ",
+      "bcacb",
+      " cac ",
+      " bab ",
+      " bab ",
+      " bab ",
+      "  a  ",
+      "  a  ",
+      "  a  ",
+      "  a  ",
+      "  a  ",
+      "  a  ",
+      "  a  "
+    ],
+    [
+      "     ",
+      " ccc ",
+      "bcccb",
+      " ccc ",
+      "  b  ",
+      "  bb ",
+      "  b  ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "bbbbb",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ]
+}

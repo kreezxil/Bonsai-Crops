@@ -1,0 +1,202 @@
+{
+  "type": "natura:eucalpytus",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "natura:overworld_leaves2",
+      "meta": 1
+    },
+    "b": {
+      "name": "natura:overworld_leaves2",
+      "meta": 9
+    },
+    "c": {
+      "name": "natura:overworld_logs2",
+      "meta": 1
+    }
+  },
+  "shape": [
+    [
+      "             ",
+      "   aaa aaa   ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "   aaa aaa   ",
+      "  aaaaaaaaa  ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "   aaa aaa   ",
+      "  aacaaacaaa ",
+      "             ",
+      "             ",
+      "        aaa  ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "   aaa aaaaa ",
+      "  aaaaaaaaaaa",
+      "    c   c    ",
+      "        baa  ",
+      "       bbaaa ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "         aaa ",
+      "   aaa aaacaa",
+      "             ",
+      "    c   baa  ",
+      "    caacccaa ",
+      "       cc    ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "         aaa ",
+      "        acaaa",
+      "         c   ",
+      "     aaabaa  ",
+      "    aaabbaaa ",
+      "     c c aaa ",
+      "     ccc     ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "             ",
+      "         aaa ",
+      "             ",
+      "     aaa     ",
+      " aaaaacaaaaa ",
+      "   bbac aaaaa",
+      "      c      ",
+      "      c      ",
+      "      c      ",
+      "      c      ",
+      "      c      ",
+      "      c      "
+    ],
+    [
+      "             ",
+      "             ",
+      "             ",
+      " aaa aaa     ",
+      "aaabbaaaaaaa ",
+      "  bcbaaccccaa",
+      "    cccc     ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "             ",
+      "             ",
+      "             ",
+      " aaa         ",
+      "aacbbaaa aaa ",
+      "  bbcaa aaaaa",
+      "    c c      ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "             ",
+      "             ",
+      "             ",
+      " aaa aaa     ",
+      "aaaaaaaaa    ",
+      "  aaaaac aaa ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "             ",
+      "             ",
+      "             ",
+      "     aaa     ",
+      " aaaaacaa    ",
+      "   aaa       ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "             ",
+      "             ",
+      "             ",
+      "     aaa     ",
+      "    aaaaa    ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "     aaa     ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ]
+  ]
+}

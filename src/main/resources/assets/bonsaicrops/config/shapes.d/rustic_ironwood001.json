@@ -1,0 +1,90 @@
+{
+  "type": "rustic:ironwood",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "rustic:log",
+      "meta": 1
+    },
+    "b": {
+      "name": "rustic:leaves",
+      "meta": 1
+    },
+    "c": {
+      "name": "rustic:leaves",
+      "meta": 9
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "bbbb ",
+      " bbbb",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "  c  ",
+      "  cc ",
+      "bcccb",
+      "bbccb",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      " ccc ",
+      " cac ",
+      "bcacb",
+      "bcacb",
+      "  a  ",
+      "  a  ",
+      "  a  ",
+      "  a  ",
+      "  a  ",
+      "  a  ",
+      "  a  ",
+      "  a  "
+    ],
+    [
+      "  c  ",
+      " cc  ",
+      "bccbb",
+      "bcccb",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "bbbbb",
+      "bbbbb",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ]
+}

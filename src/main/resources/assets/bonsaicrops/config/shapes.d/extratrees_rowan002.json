@@ -1,0 +1,124 @@
+{
+  "type": "extratrees:rowan",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:leaves.decorative.1",
+      "meta": 13
+    },
+    "b": {
+      "name": "extratrees:logs.1",
+      "meta": 0
+    }
+  },
+  "shape": [
+    [
+      "         ",
+      "   aaa   ",
+      "   aaa   ",
+      "    a    ",
+      "   aaa   ",
+      "         ",
+      "   aaa   ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      " aaaaaaa ",
+      "  aaaaa  ",
+      "  aaaaa  ",
+      "  aaaaa  ",
+      "  aaaaa  ",
+      "  aaaaa  ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "    a    ",
+      " aaaaaaa ",
+      " aaaaaaa ",
+      " aaaaaaa ",
+      " aaaaaaa ",
+      " aaaaaaa ",
+      " aaaaaaa ",
+      "  aaaaa  ",
+      "         ",
+      "         "
+    ],
+    [
+      "   aaa   ",
+      "aaaaaaaaa",
+      "aaaaaaaaa",
+      " aaaaaaa ",
+      "aaaaaaaaa",
+      " aaaaaaa ",
+      "aaaaaaaaa",
+      "  aaaaa  ",
+      "         ",
+      "         "
+    ],
+    [
+      "  aaaaa  ",
+      "aaaaaaaaa",
+      "aaaabaaaa",
+      "aaaabaaaa",
+      "aaaabaaaa",
+      " aaabaaa ",
+      "aaaabaaaa",
+      "  aabaa  ",
+      "    b    ",
+      "    b    "
+    ],
+    [
+      "   aaa   ",
+      "aaaaaaaaa",
+      "aaaaaaaaa",
+      " aaaaaaa ",
+      "aaaaaaaaa",
+      " aaaaaaa ",
+      "aaaaaaaaa",
+      "  aaaaa  ",
+      "         ",
+      "         "
+    ],
+    [
+      "    a    ",
+      " aaaaaaa ",
+      " aaaaaaa ",
+      " aaaaaaa ",
+      " aaaaaaa ",
+      " aaaaaaa ",
+      " aaaaaaa ",
+      "  aaaaa  ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      " aaaaaaa ",
+      "  aaaaa  ",
+      "  aaaaa  ",
+      "  aaaaa  ",
+      "  aaaaa  ",
+      "  aaaaa  ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "   aaa   ",
+      "   aaa   ",
+      "    a    ",
+      "   aaa   ",
+      "         ",
+      "   aaa   ",
+      "         ",
+      "         ",
+      "         "
+    ]
+  ]
+}

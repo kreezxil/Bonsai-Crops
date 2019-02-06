@@ -1,0 +1,56 @@
+{
+  "type": "extratrees:ash",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:leaves.decorative.1",
+      "meta": 15
+    },
+    "b": {
+      "name": "extratrees:logs.1",
+      "meta": 2
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      " aaa ",
+      " aaa ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      " aaa ",
+      "aaaaa",
+      "aaaaa",
+      "  a  ",
+      "     ",
+      "     "
+    ],
+    [
+      " aaa ",
+      "aaaaa",
+      "aabaa",
+      " aba ",
+      "  b  ",
+      "  b  "
+    ],
+    [
+      " aaa ",
+      "aaaaa",
+      "aaaaa",
+      "  a  ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      " aaa ",
+      " aaa ",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ]
+}

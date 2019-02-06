@@ -1,0 +1,61 @@
+{
+  "type": "extratrees:orchardapple",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:logs.0",
+      "meta": 0
+    },
+    "b": {
+      "name": "extratrees:leaves.decorative.0",
+      "meta": 0
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      " bbb ",
+      " bbb ",
+      " bbb ",
+      "  b  ",
+      "     ",
+      "     "
+    ],
+    [
+      " bbb ",
+      "bbbbb",
+      "bbbbb",
+      "bbbbb",
+      " bbb ",
+      "     ",
+      "     "
+    ],
+    [
+      " bbb ",
+      "bbabb",
+      "bbabb",
+      "bbabb",
+      "bbabb",
+      "  a  ",
+      "  a  "
+    ],
+    [
+      " bbb ",
+      "bbbbb",
+      "bbbbb",
+      "bbbbb",
+      " bbb ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      " bbb ",
+      " bbb ",
+      " bbb ",
+      "  b  ",
+      "     ",
+      "     "
+    ]
+  ]
+}

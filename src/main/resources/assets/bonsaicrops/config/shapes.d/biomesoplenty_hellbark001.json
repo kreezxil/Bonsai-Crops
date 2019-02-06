@@ -1,0 +1,30 @@
+{
+  "type": "biomesoplenty:hellbark",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "biomesoplenty:leaves_3",
+      "meta": 8
+    },
+    "b": {
+      "name": "biomesoplenty:leaves_3",
+      "meta": 0
+    },
+    "c": {
+      "name": "biomesoplenty:log_2",
+      "meta": 7
+    }
+  },
+  "shape": [
+    [
+      " a ",
+      "bca",
+      " c "
+    ],
+    [
+      "   ",
+      " a ",
+      "   "
+    ]
+  ]
+}

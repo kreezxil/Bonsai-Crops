@@ -1,0 +1,61 @@
+{
+  "type": "biomesoplenty:white_cherry",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "biomesoplenty:log_0",
+      "meta": 5
+    },
+    "b": {
+      "name": "biomesoplenty:leaves_2",
+      "meta": 2
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "bbbbb",
+      "bbbbb",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "  b  ",
+      " bbb ",
+      "bbbbb",
+      "bbbbb",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      " bbb ",
+      " bab ",
+      "bbabb",
+      "bbabb",
+      "  a  ",
+      "  a  ",
+      "  a  "
+    ],
+    [
+      "  b  ",
+      " bbb ",
+      "bbbbb",
+      "bbbbb",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      " bbbb",
+      " bbbb",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ]
+}

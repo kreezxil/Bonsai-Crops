@@ -1,0 +1,69 @@
+{
+  "type": "harvestcraft:spiderweb",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "minecraft:log",
+      "meta": 0
+    },
+    "b": {
+      "name": "minecraft:web",
+      "meta": 0
+    },
+    "c": {
+      "name": "minecraft:leaves",
+      "meta": 0
+    },
+    "d": {
+      "name": "minecraft:leaves",
+      "meta": 8
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "ccccc",
+      "ccccc",
+      "  b  ",
+      "     ",
+      "     "
+    ],
+    [
+      "  d  ",
+      "  dd ",
+      "cdddc",
+      "cdddc",
+      "   b ",
+      "     ",
+      "     "
+    ],
+    [
+      " ddd ",
+      " dad ",
+      "cdadc",
+      "cdadc",
+      "  ab ",
+      "  a  ",
+      "  a  "
+    ],
+    [
+      "  d  ",
+      " dd  ",
+      "cdddc",
+      "cdddc",
+      " b   ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      " cccc",
+      " ccc ",
+      "  b  ",
+      "     ",
+      "     "
+    ]
+  ]
+}

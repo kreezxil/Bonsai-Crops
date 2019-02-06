@@ -1,0 +1,51 @@
+{
+  "type": "extratrees:coffee",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:leaves.decorative.4",
+      "meta": 8
+    },
+    "b": {
+      "name": "minecraft:log",
+      "meta": 3
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "  a  ",
+      "  a  ",
+      "     ",
+      "     "
+    ],
+    [
+      " aaa ",
+      " aaa ",
+      " aaa ",
+      " aaa ",
+      "     "
+    ],
+    [
+      " aaa ",
+      "aabaa",
+      "aabaa",
+      " aba ",
+      "  b  "
+    ],
+    [
+      " aaa ",
+      " aaa ",
+      " aaa ",
+      " aaa ",
+      "     "
+    ],
+    [
+      "     ",
+      "  a  ",
+      "  a  ",
+      "     ",
+      "     "
+    ]
+  ]
+}

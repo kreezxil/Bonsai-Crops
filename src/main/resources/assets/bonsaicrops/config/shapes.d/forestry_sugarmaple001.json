@@ -1,0 +1,141 @@
+{
+  "type": "forestry:sugarMaple",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "forestry:leaves.decorative.0",
+      "meta": 9
+    },
+    "b": {
+      "name": "forestry:logs.5",
+      "meta": 2
+    },
+    "c": {
+      "name": "forestry:logs.5",
+      "meta": 6
+    },
+    "d": {
+      "name": "forestry:logs.5",
+      "meta": 10
+    }
+  },
+  "shape": [
+    [
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "   a    ",
+      "   a    ",
+      "        ",
+      "        ",
+      "        "
+    ],
+    [
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      " aaaaa  ",
+      " aaaaa  ",
+      "  aaaaa ",
+      "        ",
+      "        "
+    ],
+    [
+      "        ",
+      "    a   ",
+      "        ",
+      "        ",
+      "   aaa  ",
+      "        ",
+      " aaaaaa ",
+      " aaaaa  ",
+      " aaaaaaa",
+      "   aaa  ",
+      "        "
+    ],
+    [
+      "    a   ",
+      "   aaa  ",
+      "   aaa  ",
+      "   aaa  ",
+      "  aaaaa ",
+      "   aaa  ",
+      "aaaaaaa ",
+      "aaadcaa ",
+      " aaaaaaa",
+      "  aaaaa ",
+      "        "
+    ],
+    [
+      "   aaa  ",
+      "  aaaaa ",
+      "   aba  ",
+      "   aba  ",
+      "  aabaa ",
+      "   aba  ",
+      " aaabaaa",
+      " aadbaa ",
+      " aaabaaa",
+      "  aabaa ",
+      "    b   "
+    ],
+    [
+      "    a   ",
+      "   aaa  ",
+      "   aaa  ",
+      "   aaa  ",
+      "  aaaaa ",
+      "   aaa  ",
+      "aaaaaaa ",
+      "aaacaaa ",
+      " aaaaaaa",
+      "  aaaaa ",
+      "        "
+    ],
+    [
+      "        ",
+      "    a   ",
+      "        ",
+      "        ",
+      "   aaa  ",
+      "        ",
+      " aaaaaa ",
+      " aaaaa  ",
+      " aaaaaaa",
+      "   aaa  ",
+      "        "
+    ],
+    [
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      " aaaaa  ",
+      " aaaaa  ",
+      "  aaaaa ",
+      "        ",
+      "        "
+    ],
+    [
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "   a    ",
+      "   a    ",
+      "        ",
+      "        ",
+      "        "
+    ]
+  ]
+}

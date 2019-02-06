@@ -1,0 +1,56 @@
+{
+  "type": "extratrees:sycamore",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:logs.0",
+      "meta": 1
+    },
+    "b": {
+      "name": "extratrees:leaves.decorative.2",
+      "meta": 8
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "  b  ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "  b  ",
+      " bbb ",
+      "  b  ",
+      "     ",
+      "     "
+    ],
+    [
+      "  b  ",
+      " bab ",
+      "bbabb",
+      " bab ",
+      "  a  ",
+      "  a  "
+    ],
+    [
+      "     ",
+      "  b  ",
+      " bbb ",
+      "  b  ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "  b  ",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ]
+}

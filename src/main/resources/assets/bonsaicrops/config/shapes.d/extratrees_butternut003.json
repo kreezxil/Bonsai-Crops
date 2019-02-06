@@ -1,0 +1,88 @@
+{
+  "type": "extratrees:butternut",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:leaves.decorative.1",
+      "meta": 12
+    },
+    "b": {
+      "name": "extratrees:logs.0",
+      "meta": 2
+    }
+  },
+  "shape": [
+    [
+      "         ",
+      "         ",
+      "         ",
+      "  aaaaa  ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "  aaaaa  ",
+      " aaaaaaa ",
+      "         ",
+      "         "
+    ],
+    [
+      "    a    ",
+      "  aaaaa  ",
+      " aaaaaaa ",
+      "aaaaaaaaa",
+      "         ",
+      "         "
+    ],
+    [
+      "   aaa   ",
+      "  aaaaa  ",
+      " aaaaaaa ",
+      "aaaaaaaaa",
+      "         ",
+      "         "
+    ],
+    [
+      "  aaaaa  ",
+      "  aaaaa  ",
+      " aabbaaa ",
+      "aaabbaaaa",
+      "   bb    ",
+      "   bb    "
+    ],
+    [
+      "   aaa   ",
+      "  aaaaa  ",
+      " aabbaaa ",
+      "aaabbaaaa",
+      "   bb    ",
+      "   bb    "
+    ],
+    [
+      "    a    ",
+      "  aaaaa  ",
+      " aaaaaaa ",
+      "aaaaaaaaa",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "  aaaaa  ",
+      " aaaaaaa ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "         ",
+      "  aaaaa  ",
+      "         ",
+      "         "
+    ]
+  ]
+}

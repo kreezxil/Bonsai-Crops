@@ -1,0 +1,119 @@
+{
+  "type": "natura:willow",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "natura:overworld_leaves2",
+      "meta": 8
+    },
+    "b": {
+      "name": "natura:overworld_leaves2",
+      "meta": 0
+    },
+    "c": {
+      "name": "natura:overworld_logs2",
+      "meta": 0
+    }
+  },
+  "shape": [
+    [
+      "         ",
+      "         ",
+      "   b b   ",
+      "  bb bb  ",
+      "  bb bb  ",
+      "  bb bb  ",
+      "  bb bb  ",
+      "  bb  b  ",
+      "         "
+    ],
+    [
+      "     b   ",
+      "     b   ",
+      " bbbbbbb ",
+      " bbbbbb  ",
+      " b       ",
+      " b       ",
+      " b       ",
+      "         ",
+      "         "
+    ],
+    [
+      "   bbb   ",
+      "  bbbbbb ",
+      "bbbbbbbbb",
+      "bbbbbbbbb",
+      "b       b",
+      "b       b",
+      "b       b",
+      "         ",
+      "         "
+    ],
+    [
+      "  baaabb ",
+      "  baaabb ",
+      "bbbaaabb ",
+      "bbbaaabb ",
+      "b        ",
+      "b        ",
+      "b        ",
+      "         ",
+      "         "
+    ],
+    [
+      "  baaab  ",
+      "  bacab  ",
+      " bbaaabbb",
+      "bbbacabbb",
+      "b   c   b",
+      "b   c   b",
+      "b   c   b",
+      "b   c    ",
+      "    c    "
+    ],
+    [
+      " bbaaab  ",
+      " bbaaab  ",
+      " bbaaabbb",
+      " bbaaabbb",
+      "        b",
+      "        b",
+      "        b",
+      "         ",
+      "         "
+    ],
+    [
+      "   bbb   ",
+      "   bbbb  ",
+      "bbbbbbbb ",
+      "bbbbbbbbb",
+      "b       b",
+      "b       b",
+      "b       b",
+      "        b",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      " bbbbbb  ",
+      "  bbbbb  ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      " b       ",
+      " b       ",
+      " b       ",
+      " b       ",
+      " b       ",
+      "         ",
+      "         "
+    ]
+  ]
+}

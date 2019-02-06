@@ -1,0 +1,51 @@
+{
+  "type": "extratrees:logwood",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:leaves.decorative.3",
+      "meta": 14
+    },
+    "b": {
+      "name": "extratrees:logs.6",
+      "meta": 3
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "  a  ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "  a  ",
+      " aaa ",
+      "  a  ",
+      "     ",
+      "     "
+    ],
+    [
+      " aaa ",
+      "aabaa",
+      " aba ",
+      "  b  ",
+      "  b  "
+    ],
+    [
+      "  a  ",
+      " aaa ",
+      "  a  ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "  a  ",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ]
+}

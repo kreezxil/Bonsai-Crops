@@ -1,0 +1,71 @@
+{
+  "type": "extratrees:rosewood",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:logs.7",
+      "meta": 0
+    },
+    "b": {
+      "name": "extratrees:leaves.decorative.3",
+      "meta": 15
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "  b  ",
+      "     ",
+      "  b  ",
+      "     ",
+      "  b  ",
+      "     ",
+      "     "
+    ],
+    [
+      "  b  ",
+      " bbb ",
+      " bbb ",
+      "  b  ",
+      " bbb ",
+      "  b  ",
+      " bbb ",
+      "  b  ",
+      "     "
+    ],
+    [
+      " bbb ",
+      " bbb ",
+      "bbabb",
+      " bab ",
+      "bbabb",
+      " bab ",
+      "bbabb",
+      " bab ",
+      "  a  "
+    ],
+    [
+      "  b  ",
+      " bbb ",
+      " bbb ",
+      "  b  ",
+      " bbb ",
+      "  b  ",
+      " bbb ",
+      "  b  ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "  b  ",
+      "     ",
+      "  b  ",
+      "     ",
+      "  b  ",
+      "     ",
+      "     "
+    ]
+  ]
+}

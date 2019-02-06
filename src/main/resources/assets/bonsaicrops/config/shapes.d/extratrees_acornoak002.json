@@ -1,0 +1,112 @@
+{
+  "type": "extratrees:acornoak",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "minecraft:log",
+      "meta": 0
+    },
+    "b": {
+      "name": "extratrees:leaves.decorative.3",
+      "meta": 1
+    }
+  },
+  "shape": [
+    [
+      "        ",
+      "        ",
+      "        ",
+      "   bb   ",
+      "        ",
+      "   bb   ",
+      "        ",
+      "        ",
+      "        ",
+      "        "
+    ],
+    [
+      "        ",
+      "        ",
+      "  bbbb  ",
+      " bbbbbb ",
+      "  bbbb  ",
+      " bbbbbb ",
+      "  bbbb  ",
+      "        ",
+      "        ",
+      "        "
+    ],
+    [
+      "        ",
+      "  bbbb  ",
+      " bbbbbb ",
+      " bbbbbb ",
+      " bbbbbb ",
+      " bbbbbb ",
+      " bbbbbb ",
+      "        ",
+      "        ",
+      "        "
+    ],
+    [
+      "   bb   ",
+      "  bbbb  ",
+      " bbaabb ",
+      "bbbaabbb",
+      " bbaabb ",
+      "bbbaabbb",
+      " bbaabb ",
+      "   aa   ",
+      "   aa   ",
+      "   aa   "
+    ],
+    [
+      "   bb   ",
+      "  bbbb  ",
+      " bbaabb ",
+      "bbbaabbb",
+      " bbaabb ",
+      "bbbaabbb",
+      " bbaabb ",
+      "   aa   ",
+      "   aa   ",
+      "   aa   "
+    ],
+    [
+      "        ",
+      "  bbbb  ",
+      " bbbbbb ",
+      " bbbbbb ",
+      " bbbbbb ",
+      " bbbbbb ",
+      " bbbbbb ",
+      "        ",
+      "        ",
+      "        "
+    ],
+    [
+      "        ",
+      "        ",
+      "  bbbb  ",
+      " bbbbbb ",
+      "  bbbb  ",
+      " bbbbbb ",
+      "  bbbb  ",
+      "        ",
+      "        ",
+      "        "
+    ],
+    [
+      "        ",
+      "        ",
+      "        ",
+      "   bb   ",
+      "        ",
+      "   bb   ",
+      "        ",
+      "        ",
+      "        ",
+      "        "
+    ]
+  ]
+}

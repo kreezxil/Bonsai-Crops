@@ -1,0 +1,79 @@
+{
+  "type": "extratrees:sweetgum",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:leaves.decorative.3",
+      "meta": 8
+    },
+    "b": {
+      "name": "extratrees:logs.5",
+      "meta": 2
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      "       ",
+      "   a   ",
+      "  aaa  ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "  aaa  ",
+      " aaaaa ",
+      " aaaaa ",
+      "  aaa  ",
+      "       "
+    ],
+    [
+      "       ",
+      "   a   ",
+      " aaaaa ",
+      " aaaaa ",
+      "aaaaaaa",
+      " aaaaa ",
+      "       "
+    ],
+    [
+      "   a   ",
+      "  aaa  ",
+      " aabaa ",
+      "aaabaaa",
+      "aaabaaa",
+      " aabaa ",
+      "   b   "
+    ],
+    [
+      "       ",
+      "   a   ",
+      " aaaaa ",
+      " aaaaa ",
+      "aaaaaaa",
+      " aaaaa ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "  aaa  ",
+      " aaaaa ",
+      " aaaaa ",
+      "  aaa  ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "       ",
+      "   a   ",
+      "  aaa  ",
+      "       ",
+      "       "
+    ]
+  ]
+}

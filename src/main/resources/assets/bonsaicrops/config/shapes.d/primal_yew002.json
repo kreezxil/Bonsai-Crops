@@ -1,0 +1,60 @@
+{
+  "type": "primal:yew",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "primal:leaves",
+      "meta": 9
+    },
+    "b": {
+      "name": "primal:leaves",
+      "meta": 1
+    },
+    "c": {
+      "name": "primal:logs",
+      "meta": 1
+    }
+  },
+  "shape": [
+    [
+      "      ",
+      " bbb  ",
+      " bbb  ",
+      "  bbb ",
+      "      ",
+      "      "
+    ],
+    [
+      "  b   ",
+      "bbaab ",
+      "baabb ",
+      " aabbb",
+      "   a  ",
+      "      "
+    ],
+    [
+      " bbb  ",
+      "babab ",
+      "bbcab ",
+      " acabb",
+      "  cab ",
+      "  c   "
+    ],
+    [
+      "  b   ",
+      "baaab ",
+      "babbb ",
+      " aaabb",
+      "   b  ",
+      "      "
+    ],
+    [
+      "      ",
+      " bbb  ",
+      " bbb  ",
+      "  bbb ",
+      "      ",
+      "      "
+    ]
+  ]
+}

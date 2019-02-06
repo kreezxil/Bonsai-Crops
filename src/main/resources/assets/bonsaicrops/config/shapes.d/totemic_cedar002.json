@@ -1,0 +1,100 @@
+{
+  "type": "totemic:cedar",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "totemic:cedar_log",
+      "meta": 0
+    },
+    "b": {
+      "name": "totemic:cedar_leaves",
+      "meta": 8
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      " bbbbbb",
+      " bbbbb ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "       ",
+      "  bbb  ",
+      "  bbbb ",
+      "  bbb  ",
+      "bbbbbbb",
+      "bbbbbbb",
+      "       ",
+      "       "
+    ],
+    [
+      "   b   ",
+      "  bbb  ",
+      "   bb  ",
+      " bbbbb ",
+      " bbbbb ",
+      " bbbbb ",
+      "bbbbbbb",
+      "bbbbbbb",
+      "       ",
+      "       "
+    ],
+    [
+      "  bbb  ",
+      "  bab  ",
+      "  bab  ",
+      " bbabb ",
+      " bbabb ",
+      " bbabb ",
+      "bbbabbb",
+      "bbbabbb",
+      "   a   ",
+      "   a   "
+    ],
+    [
+      "   b   ",
+      "   bb  ",
+      "  bb   ",
+      " bbbbb ",
+      " bbbbb ",
+      " bbbbb ",
+      "bbbbbbb",
+      "bbbbbbb",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "       ",
+      "  bbb  ",
+      " bbbb  ",
+      "  bbbb ",
+      "bbbbbbb",
+      "bbbbbbb",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "bbbbbbb",
+      " bbbbb ",
+      "       ",
+      "       "
+    ]
+  ]
+}

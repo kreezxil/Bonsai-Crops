@@ -1,0 +1,70 @@
+{
+  "type": "biomesoplenty:pine",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "biomesoplenty:log_2",
+      "meta": 6
+    },
+    "b": {
+      "name": "biomesoplenty:leaves_5",
+      "meta": 0
+    },
+    "c": {
+      "name": "biomesoplenty:leaves_5",
+      "meta": 8
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "bb   ",
+      "b    ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "  b  ",
+      " ccc ",
+      "     ",
+      "bccc ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "  b  ",
+      " bbb ",
+      " cac ",
+      "  a  ",
+      " cac ",
+      "  a  ",
+      "  a  ",
+      "  a  "
+    ],
+    [
+      "     ",
+      "  b  ",
+      " ccc ",
+      "     ",
+      " cccb",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "   bb",
+      "    b",
+      "     ",
+      "     "
+    ]
+  ]
+}

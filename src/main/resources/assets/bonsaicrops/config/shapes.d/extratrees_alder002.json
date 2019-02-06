@@ -1,0 +1,79 @@
+{
+  "type": "extratrees:alder",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:leaves.decorative.2",
+      "meta": 0
+    },
+    "b": {
+      "name": "extratrees:logs.1",
+      "meta": 3
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      "  aaa  ",
+      "   a   ",
+      "  aaa  ",
+      "   a   ",
+      "       "
+    ],
+    [
+      "       ",
+      "  aaa  ",
+      " aaaaa ",
+      " aaaaa ",
+      " aaaaa ",
+      " aaaaa ",
+      "  aaa  "
+    ],
+    [
+      "  aaa  ",
+      " aaaaa ",
+      "aaaaaaa",
+      " aaaaa ",
+      "aaaaaaa",
+      " aaaaa ",
+      " aaaaa "
+    ],
+    [
+      "  aaa  ",
+      " aaaaa ",
+      "aaabaaa",
+      "aaabaaa",
+      "aaabaaa",
+      "aaabaaa",
+      " aabaa "
+    ],
+    [
+      "  aaa  ",
+      " aaaaa ",
+      "aaaaaaa",
+      " aaaaa ",
+      "aaaaaaa",
+      " aaaaa ",
+      " aaaaa "
+    ],
+    [
+      "       ",
+      "  aaa  ",
+      " aaaaa ",
+      " aaaaa ",
+      " aaaaa ",
+      " aaaaa ",
+      "  aaa  "
+    ],
+    [
+      "       ",
+      "       ",
+      "  aaa  ",
+      "   a   ",
+      "  aaa  ",
+      "   a   ",
+      "       "
+    ]
+  ]
+}

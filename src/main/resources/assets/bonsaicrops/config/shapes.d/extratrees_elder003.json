@@ -1,0 +1,37 @@
+{
+  "type": "extratrees:elder",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:logs.4",
+      "meta": 1
+    },
+    "b": {
+      "name": "extratrees:leaves.decorative.2",
+      "meta": 13
+    }
+  },
+  "shape": [
+    [
+      " b ",
+      "bbb",
+      "bbb",
+      " b ",
+      "   "
+    ],
+    [
+      "bbb",
+      "bbb",
+      "bab",
+      "bab",
+      " a "
+    ],
+    [
+      " b ",
+      "bbb",
+      "bbb",
+      " b ",
+      "   "
+    ]
+  ]
+}

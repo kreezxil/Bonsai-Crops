@@ -1,0 +1,100 @@
+{
+  "type": "extratrees:balsamfir",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:logs.3",
+      "meta": 1
+    },
+    "b": {
+      "name": "extratrees:leaves.decorative.3",
+      "meta": 6
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "   b   ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "   b   ",
+      "  bbb  ",
+      " bbbbb ",
+      "  bbb  ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "       ",
+      "   b   ",
+      "  bbb  ",
+      "  bbb  ",
+      " bbbbb ",
+      " bbbbb ",
+      " bbbbb ",
+      "   b   "
+    ],
+    [
+      "   b   ",
+      "   b   ",
+      "   b   ",
+      "  bab  ",
+      "  bab  ",
+      " bbabb ",
+      " bbabb ",
+      "bbbabbb",
+      " bbabb ",
+      "  bab  "
+    ],
+    [
+      "       ",
+      "       ",
+      "       ",
+      "   b   ",
+      "  bbb  ",
+      "  bbb  ",
+      " bbbbb ",
+      " bbbbb ",
+      " bbbbb ",
+      "   b   "
+    ],
+    [
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "   b   ",
+      "  bbb  ",
+      " bbbbb ",
+      "  bbb  ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "   b   ",
+      "       ",
+      "       "
+    ]
+  ]
+}

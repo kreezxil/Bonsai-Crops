@@ -1,0 +1,156 @@
+{
+  "type": "forestry:padauk",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "forestry:leaves.decorative.1",
+      "meta": 8
+    },
+    "b": {
+      "name": "forestry:logs.6",
+      "meta": 2
+    },
+    "c": {
+      "name": "forestry:logs.6",
+      "meta": 10
+    },
+    "d": {
+      "name": "forestry:logs.6",
+      "meta": 6
+    }
+  },
+  "shape": [
+    [
+      "           ",
+      "           ",
+      "           ",
+      "   aaaaa   ",
+      "   aaaaa   ",
+      "   aaaaa   ",
+      "           ",
+      "           ",
+      "           ",
+      "           "
+    ],
+    [
+      "           ",
+      "           ",
+      "     a     ",
+      "  aaaaaaa  ",
+      "  aaaaaaa  ",
+      "  aaaaaaa  ",
+      "           ",
+      "           ",
+      "           ",
+      "           "
+    ],
+    [
+      "           ",
+      "           ",
+      "   aadaa   ",
+      " aaaaaaaaa ",
+      " aaaaaaaaa ",
+      " aaaaaaaaa ",
+      "           ",
+      "           ",
+      "           ",
+      "           "
+    ],
+    [
+      "           ",
+      "    aaa    ",
+      "  aaaaaaa  ",
+      "aaaaadaaaaa",
+      "aaaaaaaaaaa",
+      "aaaaaaaaaaa",
+      "           ",
+      "           ",
+      "           ",
+      "           "
+    ],
+    [
+      "     a     ",
+      "   aaaaa   ",
+      "  aaaaaaa  ",
+      "aaaaadaaaaa",
+      "aaaaaaaaaaa",
+      "aaaaaaaaaaa",
+      "           ",
+      "           ",
+      "           ",
+      "           "
+    ],
+    [
+      "    aaa    ",
+      "   aaaaa   ",
+      " aaaabaaca ",
+      "aaaaabccaaa",
+      "aaaaabaaaaa",
+      "aaaaabaaaaa",
+      "     b     ",
+      "     b     ",
+      "     b     ",
+      "     b     "
+    ],
+    [
+      "     a     ",
+      "   aaaaa   ",
+      "  aaaaaaa  ",
+      "aaaaadaaaaa",
+      "aaaaaaaaaaa",
+      "aaaaaaaaaaa",
+      "           ",
+      "           ",
+      "           ",
+      "           "
+    ],
+    [
+      "           ",
+      "    aaa    ",
+      "  aaaaaaa  ",
+      "aaaaaaaaaaa",
+      "aaaaaaaaaaa",
+      "aaaaaaaaaaa",
+      "           ",
+      "           ",
+      "           ",
+      "           "
+    ],
+    [
+      "           ",
+      "           ",
+      "   aaaaa   ",
+      " aaaaaaaaa ",
+      " aaaaaaaaa ",
+      " aaaaaaaaa ",
+      "           ",
+      "           ",
+      "           ",
+      "           "
+    ],
+    [
+      "           ",
+      "           ",
+      "     a     ",
+      "  aaaaaaa  ",
+      "  aaaaaaa  ",
+      "  aaaaaaa  ",
+      "           ",
+      "           ",
+      "           ",
+      "           "
+    ],
+    [
+      "           ",
+      "           ",
+      "           ",
+      "   aaaaa   ",
+      "   aaaaa   ",
+      "   aaaaa   ",
+      "           ",
+      "           ",
+      "           ",
+      "           "
+    ]
+  ]
+}

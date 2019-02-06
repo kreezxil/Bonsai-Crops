@@ -1,0 +1,52 @@
+{
+  "type": "extratrees:douglasfir",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:logs.3",
+      "meta": 1
+    },
+    "b": {
+      "name": "extratrees:leaves.decorative.2",
+      "meta": 6
+    }
+  },
+  "shape": [
+    [
+      "    ",
+      "    ",
+      "  b ",
+      " bb ",
+      "    ",
+      "    ",
+      "    "
+    ],
+    [
+      " bb ",
+      " bb ",
+      "baab",
+      "baab",
+      " aa ",
+      " aa ",
+      " aa "
+    ],
+    [
+      " bb ",
+      " bb ",
+      "baab",
+      "baab",
+      " aa ",
+      " aa ",
+      " aa "
+    ],
+    [
+      "    ",
+      "    ",
+      " bb ",
+      " bb ",
+      "    ",
+      "    ",
+      "    "
+    ]
+  ]
+}

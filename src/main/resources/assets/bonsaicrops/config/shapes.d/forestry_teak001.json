@@ -1,0 +1,87 @@
+{
+  "type": "forestry:teak",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "forestry:leaves.decorative.1",
+      "meta": 0
+    },
+    "b": {
+      "name": "forestry:logs.0",
+      "meta": 5
+    },
+    "c": {
+      "name": "forestry:logs.0",
+      "meta": 1
+    },
+    "d": {
+      "name": "forestry:logs.0",
+      "meta": 9
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      "       ",
+      "   a   ",
+      "   a   ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "  aaa  ",
+      "  aaa  ",
+      "  aaa  ",
+      "       ",
+      "       "
+    ],
+    [
+      "   a   ",
+      "  aaa  ",
+      " aaaaa ",
+      " aaaaa ",
+      " aabaa ",
+      "       ",
+      "       "
+    ],
+    [
+      "  aaa  ",
+      "  aaa  ",
+      " aacaa ",
+      "aaacaaa",
+      "aadcdaa",
+      "   c   ",
+      "   c   "
+    ],
+    [
+      "   a   ",
+      "  aaa  ",
+      " aaaaa ",
+      " aaaaa ",
+      " aabaa ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "  aaa  ",
+      "  aaa  ",
+      "  aaa  ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "       ",
+      "   a   ",
+      "   a   ",
+      "       ",
+      "       "
+    ]
+  ]
+}

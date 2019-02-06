@@ -1,0 +1,164 @@
+{
+  "type": "forestry:zebrawood",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "forestry:logs.7",
+      "meta": 0
+    },
+    "b": {
+      "name": "forestry:leaves.decorative.1",
+      "meta": 4
+    },
+    "c": {
+      "name": "forestry:logs.7",
+      "meta": 8
+    },
+    "d": {
+      "name": "forestry:logs.7",
+      "meta": 4
+    }
+  },
+  "shape": [
+    [
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "   b        ",
+      "   b        ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            "
+    ],
+    [
+      "            ",
+      "            ",
+      "            ",
+      "   bbbbb    ",
+      " bbbbbbb    ",
+      " bbbbb      ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            "
+    ],
+    [
+      "            ",
+      "            ",
+      "   bbbbb    ",
+      "  bbbbbbb   ",
+      " bbbbbbbb   ",
+      " bbbbbbb    ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            "
+    ],
+    [
+      "     b      ",
+      "    bbb     ",
+      "  bbbbbbb   ",
+      " bbbbbbbbb  ",
+      "bbbbbbbbbb  ",
+      "bbbcdbbbb   ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            "
+    ],
+    [
+      "    bbb     ",
+      "   bbbbb    ",
+      "  bbbbbbb   ",
+      " bbbbbbbbb  ",
+      " bbbbbbbbbb ",
+      " bbbdbbbbbb ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            "
+    ],
+    [
+      "   bbbbb    ",
+      "   bbbbb    ",
+      "  bbaabbb   ",
+      " bbbaabbbb  ",
+      " bbbaabbbbb ",
+      " bbbaabbbbb ",
+      "    aa      ",
+      "    aa      ",
+      "    aa      ",
+      "    aa      ",
+      "   aaa      ",
+      "   aaa      "
+    ],
+    [
+      "    bbb     ",
+      "   bbbbb    ",
+      "  bbaabbb   ",
+      " bbbaabbbb  ",
+      " bbbaabbbbbb",
+      "  bbaacccbbb",
+      "    aa      ",
+      "    aa      ",
+      "    aa      ",
+      "    aa      ",
+      "    aa      ",
+      "    aa      "
+    ],
+    [
+      "     b      ",
+      "    bbb     ",
+      "  bbbbbbb   ",
+      " bbbbbbbbb  ",
+      " bbbbbbbbbb ",
+      "  bbbbbbbbb ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "    a       "
+    ],
+    [
+      "            ",
+      "            ",
+      "   bbbbb    ",
+      "  bbbbbbb   ",
+      "  bbbbbbbbb ",
+      "   bbbbbbbb ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            "
+    ],
+    [
+      "            ",
+      "            ",
+      "            ",
+      "   bbbbb    ",
+      "   bbbbbb   ",
+      "        b   ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            "
+    ]
+  ]
+}

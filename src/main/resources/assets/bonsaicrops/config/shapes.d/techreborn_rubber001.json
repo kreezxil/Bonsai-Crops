@@ -1,0 +1,90 @@
+{
+  "type": "techreborn:rubber",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "techreborn:rubber_log",
+      "meta": 2
+    },
+    "b": {
+      "name": "techreborn:rubber_leaves",
+      "meta": 0
+    },
+    "c": {
+      "name": "techreborn:rubber_leaves",
+      "meta": 2
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      " bbcb",
+      "bbcbc",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "  c  ",
+      " bbb ",
+      "bcbbb",
+      "bbbbb",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "  c  ",
+      "  b  ",
+      " bcb ",
+      " ccc ",
+      "bcabb",
+      "bcabc",
+      "  a  ",
+      "  a  ",
+      "  a  ",
+      "  a  ",
+      "  a  ",
+      "  a  "
+    ],
+    [
+      "     ",
+      "     ",
+      "  c  ",
+      "  cc ",
+      "bbcbb",
+      "ccbcb",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "bbbcb",
+      " bcc ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ]
+}

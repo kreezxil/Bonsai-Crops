@@ -1,0 +1,40 @@
+{
+  "type": "extratrees:holly",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:logs.4",
+      "meta": 2
+    },
+    "b": {
+      "name": "extratrees:leaves.decorative.2",
+      "meta": 14
+    }
+  },
+  "shape": [
+    [
+      "   ",
+      " b ",
+      "bbb",
+      "bbb",
+      " b ",
+      "   "
+    ],
+    [
+      " b ",
+      "bbb",
+      "bab",
+      "bab",
+      "bab",
+      " a "
+    ],
+    [
+      "   ",
+      " b ",
+      "bbb",
+      "bbb",
+      " b ",
+      "   "
+    ]
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "type": "extratrees:coconut",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "minecraft:log",
+      "meta": 3
+    },
+    "b": {
+      "name": "extratrees:leaves.decorative.5",
+      "meta": 6
+    }
+  },
+  "shape": [
+    [
+      "   ",
+      "bbb",
+      "   ",
+      "   ",
+      "   ",
+      "   "
+    ],
+    [
+      " b ",
+      "bbb",
+      " a ",
+      " a ",
+      " a ",
+      " a "
+    ],
+    [
+      "   ",
+      "bbb",
+      "   ",
+      "   ",
+      "   ",
+      "   "
+    ]
+  ]
+}

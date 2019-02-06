@@ -1,0 +1,37 @@
+{
+  "type": "extratrees:swampgum",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:logs.9",
+      "meta": 0
+    },
+    "b": {
+      "name": "extratrees:leaves.decorative.4",
+      "meta": 5
+    }
+  },
+  "shape": [
+    [
+      " b",
+      "aa",
+      "aa",
+      "aa",
+      "aa"
+    ],
+    [
+      "bb",
+      "aa",
+      "aa",
+      "aa",
+      "aa"
+    ],
+    [
+      "  ",
+      "  ",
+      "  ",
+      "  ",
+      "bb"
+    ]
+  ]
+}

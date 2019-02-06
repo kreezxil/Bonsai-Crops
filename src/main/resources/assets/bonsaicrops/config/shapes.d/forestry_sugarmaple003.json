@@ -1,0 +1,128 @@
+{
+  "type": "forestry:sugarMaple",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "forestry:leaves.decorative.0",
+      "meta": 9
+    },
+    "b": {
+      "name": "forestry:logs.5",
+      "meta": 2
+    },
+    "c": {
+      "name": "forestry:logs.5",
+      "meta": 6
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      "       ",
+      "   a   ",
+      "   a   ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "       ",
+      " aaaaa ",
+      " aaaaa ",
+      "       ",
+      "  aaa  ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "   a   ",
+      "       ",
+      " aaaaa ",
+      " aaaaa ",
+      "   a   ",
+      " aaaaa ",
+      "  aaa  ",
+      "       ",
+      "       "
+    ],
+    [
+      "   a   ",
+      "  aaa  ",
+      "  aaa  ",
+      "aaaaaaa",
+      "aaacaaa",
+      "  aaa  ",
+      "aaaaaaa",
+      " aaaaa ",
+      "       ",
+      "       "
+    ],
+    [
+      "  aaa  ",
+      " aaaaa ",
+      "  aba  ",
+      " aabaa ",
+      " aabaa ",
+      " aabaa ",
+      "aaabaaa",
+      " aabaa ",
+      "   b   ",
+      "   b   "
+    ],
+    [
+      "   a   ",
+      "  aaa  ",
+      "  aaa  ",
+      "aaaaaaa",
+      "aaacaaa",
+      "  aaa  ",
+      "aaaaaaa",
+      " aaaaa ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "   a   ",
+      "       ",
+      " aaaaa ",
+      " aaaaa ",
+      "   a   ",
+      " aaaaa ",
+      "  aaa  ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "       ",
+      " aaaaa ",
+      " aaaaa ",
+      "       ",
+      "  aaa  ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "       ",
+      "   a   ",
+      "   a   ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ]
+  ]
+}

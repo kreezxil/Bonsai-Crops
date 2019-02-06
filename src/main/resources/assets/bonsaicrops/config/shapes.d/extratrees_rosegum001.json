@@ -1,0 +1,79 @@
+{
+  "type": "extratrees:rosegum",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:logs.8",
+      "meta": 0
+    },
+    "b": {
+      "name": "extratrees:leaves.decorative.4",
+      "meta": 4
+    }
+  },
+  "shape": [
+    [
+      "   ",
+      " b ",
+      "bb ",
+      "bbb",
+      "bbb",
+      "bbb",
+      "bbb",
+      " b ",
+      "bbb",
+      "bbb",
+      " b ",
+      "   ",
+      "   ",
+      "   ",
+      "   ",
+      "   ",
+      "   ",
+      "   ",
+      "   "
+    ],
+    [
+      " b ",
+      " bb",
+      "bbb",
+      "bab",
+      "bab",
+      "bab",
+      "bab",
+      "bab",
+      "bab",
+      "bab",
+      " ab",
+      " a ",
+      " a ",
+      " a ",
+      " a ",
+      " a ",
+      " a ",
+      " a ",
+      " a "
+    ],
+    [
+      "   ",
+      " b ",
+      "bb ",
+      "bbb",
+      "bbb",
+      "bb ",
+      "bb ",
+      " b ",
+      "bbb",
+      "bbb",
+      " b ",
+      "   ",
+      "   ",
+      "   ",
+      "   ",
+      "   ",
+      "   ",
+      "   ",
+      "   "
+    ]
+  ]
+}

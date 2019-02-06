@@ -1,0 +1,72 @@
+{
+  "type": "extratrees:floweringcrabapple",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:leaves.decorative.0",
+      "meta": 2
+    },
+    "b": {
+      "name": "extratrees:logs.0",
+      "meta": 0
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "   a   ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      " aaaaa ",
+      "   a   ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "  aaa  ",
+      " aaaaa ",
+      "  aaa  ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "  aaa  ",
+      "aaabaaa",
+      " aabaa ",
+      "   b   ",
+      "   b   ",
+      "   b   "
+    ],
+    [
+      "  aaa  ",
+      " aaaaa ",
+      "  aaa  ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      " aaaaa ",
+      "   a   ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "   a   ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ]
+  ]
+}

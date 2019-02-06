@@ -1,0 +1,37 @@
+{
+  "type": "extratrees:cinnamon",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:logs.9",
+      "meta": 3
+    },
+    "b": {
+      "name": "extratrees:leaves.decorative.5",
+      "meta": 5
+    }
+  },
+  "shape": [
+    [
+      "   ",
+      "bbb",
+      " b ",
+      "   ",
+      "   "
+    ],
+    [
+      " b ",
+      "bab",
+      "bab",
+      " a ",
+      " a "
+    ],
+    [
+      "   ",
+      "bbb",
+      " b ",
+      "   ",
+      "   "
+    ]
+  ]
+}

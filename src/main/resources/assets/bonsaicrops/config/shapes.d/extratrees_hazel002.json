@@ -1,0 +1,61 @@
+{
+  "type": "extratrees:hazel",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:logs.3",
+      "meta": 2
+    },
+    "b": {
+      "name": "extratrees:leaves.decorative.2",
+      "meta": 7
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      " bbb ",
+      " bbb ",
+      "  b  ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      " bbb ",
+      "bbbbb",
+      "bbbbb",
+      " bbb ",
+      " bbb ",
+      "  b  ",
+      "     "
+    ],
+    [
+      " bbb ",
+      "bbbbb",
+      "bbabb",
+      "bbabb",
+      " bab ",
+      " bab ",
+      "  a  "
+    ],
+    [
+      " bbb ",
+      "bbbbb",
+      "bbbbb",
+      " bbb ",
+      " bbb ",
+      "  b  ",
+      "     "
+    ],
+    [
+      "     ",
+      " bbb ",
+      " bbb ",
+      "  b  ",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ]
+}

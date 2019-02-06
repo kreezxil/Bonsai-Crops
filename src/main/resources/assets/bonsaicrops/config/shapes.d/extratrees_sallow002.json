@@ -1,0 +1,61 @@
+{
+  "type": "extratrees:sallow",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "forestry:logs.3",
+      "meta": 0
+    },
+    "b": {
+      "name": "extratrees:leaves.decorative.3",
+      "meta": 0
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      " bbb ",
+      " bbb ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      " bbb ",
+      "bbbbb",
+      "bbbbb",
+      " bbb ",
+      "     ",
+      "     "
+    ],
+    [
+      "  b  ",
+      " bbb ",
+      "bbabb",
+      "bbabb",
+      " bab ",
+      "  a  ",
+      "  a  "
+    ],
+    [
+      "     ",
+      " bbb ",
+      "bbbbb",
+      "bbbbb",
+      " bbb ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      " bbb ",
+      " bbb ",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ]
+}

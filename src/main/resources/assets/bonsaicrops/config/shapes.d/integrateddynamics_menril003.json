@@ -1,0 +1,131 @@
+{
+  "type": "integrateddynamics:menril",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "integrateddynamics:menril_leaves",
+      "meta": 1
+    },
+    "b": {
+      "name": "integrateddynamics:menril_leaves",
+      "meta": 3
+    },
+    "c": {
+      "name": "integrateddynamics:menril_log",
+      "meta": 1
+    },
+    "d": {
+      "name": "integrateddynamics:menril_leaves",
+      "meta": 0
+    },
+    "e": {
+      "name": "integrateddynamics:menril_log",
+      "meta": 3
+    },
+    "f": {
+      "name": "integrateddynamics:menril_log_filled",
+      "meta": 7
+    }
+  },
+  "shape": [
+    [
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "  babbb  ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "bbbabbbbb",
+      "  bbbbb  ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "   aab   ",
+      "   aba   ",
+      "   aaa   ",
+      "bbbabbbbb",
+      " bbbbbbb ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "   bba   ",
+      "  abcab  ",
+      "  bbcba  ",
+      "  bbcbb  ",
+      "abbbfabab",
+      " abbbbba ",
+      "         ",
+      "         ",
+      "    e    "
+    ],
+    [
+      "   bbb   ",
+      "  accca  ",
+      "  bcccb  ",
+      "  bcccb  ",
+      "aaacccaba",
+      " bbacbab ",
+      "    c    ",
+      "    c    ",
+      "   ece   "
+    ],
+    [
+      "   bbb   ",
+      "  aacab  ",
+      "  aacbb  ",
+      "  abcbb  ",
+      "bbabcabba",
+      " abbbabb ",
+      "         ",
+      "         ",
+      "    e    "
+    ],
+    [
+      "         ",
+      "   bbb   ",
+      "   aab   ",
+      "   aba   ",
+      " bbbabbbb",
+      "  bbbbad ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "  bbabbbb",
+      "  babadb ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      " b babb  ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ]
+  ]
+}

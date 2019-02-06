@@ -1,0 +1,128 @@
+{
+  "type": "extratrees:monkeypuzzle",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "forestry:logs.5",
+      "meta": 0
+    },
+    "b": {
+      "name": "extratrees:leaves.decorative.4",
+      "meta": 9
+    }
+  },
+  "shape": [
+    [
+      "        ",
+      "        ",
+      "        ",
+      "   bb   ",
+      "  bbbb  ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        "
+    ],
+    [
+      "        ",
+      "        ",
+      "  bbbb  ",
+      " bbbbbb ",
+      " bbbbbb ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        "
+    ],
+    [
+      "        ",
+      "  bbbb  ",
+      " bbbbbb ",
+      " bbbbbb ",
+      "bbbbbbbb",
+      "   bb   ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        "
+    ],
+    [
+      "   bb   ",
+      "  bbbb  ",
+      " bbbbbb ",
+      "bbbaabbb",
+      "bbbaabbb",
+      "  baab  ",
+      "   aa   ",
+      "   aa   ",
+      "   aa   ",
+      "   aa   ",
+      "   aa   ",
+      "   aa   "
+    ],
+    [
+      "   bb   ",
+      "  bbbb  ",
+      " bbbbbb ",
+      "bbbaabbb",
+      "bbbaabbb",
+      "  baab  ",
+      "   aa   ",
+      "   aa   ",
+      "   aa   ",
+      "   aa   ",
+      "   aa   ",
+      "   aa   "
+    ],
+    [
+      "        ",
+      "  bbbb  ",
+      " bbbbbb ",
+      " bbbbbb ",
+      "bbbbbbbb",
+      "   bb   ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        "
+    ],
+    [
+      "        ",
+      "        ",
+      "  bbbb  ",
+      " bbbbbb ",
+      " bbbbbb ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        "
+    ],
+    [
+      "        ",
+      "        ",
+      "        ",
+      "   bb   ",
+      "  bbbb  ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        "
+    ]
+  ]
+}

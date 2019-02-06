@@ -1,0 +1,36 @@
+{
+  "type": "extratrees:dwarfhazel",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extratrees:leaves.decorative.6",
+      "meta": 0
+    },
+    "b": {
+      "name": "extratrees:logs.3",
+      "meta": 2
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "  a  "
+    ],
+    [
+      "  a  ",
+      " aaa "
+    ],
+    [
+      " aaa ",
+      "aabaa"
+    ],
+    [
+      "  a  ",
+      " aaa "
+    ],
+    [
+      "     ",
+      "  a  "
+    ]
+  ]
+}

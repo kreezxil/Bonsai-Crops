@@ -1,0 +1,140 @@
+{
+  "type": "integrateddynamics:menril",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "integrateddynamics:menril_leaves",
+      "meta": 3
+    },
+    "b": {
+      "name": "integrateddynamics:menril_log",
+      "meta": 1
+    },
+    "c": {
+      "name": "integrateddynamics:menril_leaves",
+      "meta": 1
+    },
+    "d": {
+      "name": "integrateddynamics:menril_log",
+      "meta": 3
+    },
+    "e": {
+      "name": "integrateddynamics:menril_log_filled",
+      "meta": 12
+    },
+    "f": {
+      "name": "integrateddynamics:menril_log_filled",
+      "meta": 4
+    }
+  },
+  "shape": [
+    [
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      " aacaaaa ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      " aaaaaaaa",
+      " aaaaa a ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "   aaa   ",
+      "   aaa   ",
+      "   aaa   ",
+      "aaaaaaaaa",
+      " aaaaaaa ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "   aaa   ",
+      "  aabaa  ",
+      "  aabca  ",
+      "  aabaa  ",
+      "aaacbaaaa",
+      " aaaaaaa ",
+      "         ",
+      "         ",
+      "         ",
+      "    d    "
+    ],
+    [
+      "   caa   ",
+      "  abbba  ",
+      "  abbba  ",
+      "  abbba  ",
+      "aaabbbaaa",
+      " acabaaa ",
+      "    b    ",
+      "    b    ",
+      "    b    ",
+      "   dbd   "
+    ],
+    [
+      "   aaa   ",
+      "  aabaa  ",
+      "  aafaa  ",
+      "  aabaa  ",
+      "caaabaaac",
+      " aaaaaaa ",
+      "         ",
+      "         ",
+      "         ",
+      "    e    "
+    ],
+    [
+      "         ",
+      "   aaa   ",
+      "   aaa   ",
+      "   aaa   ",
+      "aacaaaaaa",
+      " aaacaca ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "aaaaaaaaa",
+      " aaaaaaa ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      " aaaaaa  ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ]
+  ]
+}
